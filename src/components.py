@@ -13,7 +13,7 @@ from src.charts import build_index_figure
 def render_header(region_label: str, year_range: tuple[int, int]) -> None:
     st.markdown(f"""
     <div class="dash-header">
-        <h1>Chile en perspectiva comparada</h1>
+        <h1>La integridad pública de Chile en perspectiva comparada</h1>
         <p>Índices de gobernanza y corrupción · Chile vs {region_label} · {year_range[0]}–{year_range[1]}</p>
     </div>
     """, unsafe_allow_html=True)
@@ -30,7 +30,7 @@ def render_sidebar(available_regions: list[str]) -> tuple[str, tuple[int, int]]:
     from src.config import YEAR_MIN, YEAR_MAX, YEAR_DEFAULT
 
     with st.sidebar:
-        st.markdown("### 🔎 Filtros")
+        st.markdown("### Filtros")
         st.markdown("---")
 
         region_key = st.selectbox(

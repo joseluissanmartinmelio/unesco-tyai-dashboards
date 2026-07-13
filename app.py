@@ -12,7 +12,7 @@ from src.components import render_header, render_sidebar, render_index_section, 
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Índices de Corrupción – Chile en Perspectiva Comparada",
+    page_title="La integridad pública de Chile en perspectiva comparada",
     page_icon="",
     layout="wide",
 )
