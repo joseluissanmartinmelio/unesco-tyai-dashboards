@@ -1,3 +1,4 @@
+#TODO: datos de VDEM y TRACE
 # config.py
 # ── Configuración central del dashboard ──────────────────────────────────────
 # Agregar índices, regiones o cambiar paths aquí. No tocar lógica.
@@ -60,15 +61,15 @@ DATASETS: dict[str, dict] = {
     #    "scale":            "0–100 (menor = menos riesgo)",
     #},
     
-    "V-DEM – Political Corruption Index": {
-        "file":             "vdem-pci.csv",
-        "score_var":        "v2x_corr",          # ajustar si la columna difiere
-        "time_var":         "year",
-        "country_var":      "country",
-        "regions":          {"OCDE": "ocde", "LATAM": "latam"},
-        "higher_is_better": False,
-        "scale":            "0–1 (menor = menos corrupto)",
-    },
+    #"V-DEM – Political Corruption Index": {
+    #    "file":             "vdem-pci.csv",
+    #    "score_var":        "v2x_corr",          # ajustar si la columna difiere
+    #    "time_var":         "year",
+    #    "country_var":      "country",
+    #    "regions":          {"OCDE": "ocde", "LATAM": "latam"},
+    #    "higher_is_better": False,
+    #    "scale":            "0–1 (menor = menos corrupto)",
+    #},
     "WGI-CC – Control of Corruption": {
         "file":             "wgicc.csv",
         "score_var":        "value",
