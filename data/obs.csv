@@ -1,0 +1,1001 @@
+country,ISO,Year,Region,OBI_unrounded,OBI_rounded,OBI_Category,Legislative_Oversight,SAI_Oversight,Oversight_Overall,IFI_Oversight_unscored,Public_Participation,Comp_2006–2012,Comp_2012–2015,Comp_2015–2017,Comp_2017–2019,Comp_2019–2021,Comp_2021–2023,Comp_2023–2025,ocde,latam
+Afghanistan,AFG,2025,South Asia,0,0,Scant or None (0-20),0,0,0,0,0,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2023,South Asia,0,0,Scant or None (0-20),0,0,0,0,0,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2021,South Asia,42.89,43,Limited (41-60),22.08,50,31.39,0,12.94,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2019,South Asia,49.52,50,Limited (41-60),22.08,50,31.39,0,14.78,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2017,South Asia,48.59,49,Limited (41-60),30.42,66.67,42.5,0,14.78,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2015,South Asia,41.81,42,Limited (41-60),36.36,50,,,27,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2012,South Asia,58.62,59,Limited (41-60),48.45,75,,,11,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2010,South Asia,21.03,21,Minimal (21-40),47.17,26.7,,,,0,1,1,1,1,1,1,0,0
+Afghanistan,AFG,2008,South Asia,8.34,8,Scant or None (0-20),24.27,6.7,,,,0,1,1,1,1,1,1,0,0
+Albania,ALB,2025,Eastern Europe & Central Asia,64.23,64,Substantial (61-80),63.92,77.83,68.56,0,16.61,1,1,1,1,1,1,1,0,0
+Albania,ALB,2023,Eastern Europe & Central Asia,57.48,57,Limited (41-60),63.92,72.17,66.67,0,9.17,1,1,1,1,1,1,1,0,0
+Albania,ALB,2021,Eastern Europe & Central Asia,51.65,52,Limited (41-60),63.92,72.17,66.67,0,5.5,1,1,1,1,1,1,1,0,0
+Albania,ALB,2019,Eastern Europe & Central Asia,54.72,55,Limited (41-60),61.08,72.17,64.78,0,7.33,1,1,1,1,1,1,1,0,0
+Albania,ALB,2017,Eastern Europe & Central Asia,49.66,50,Limited (41-60),66.67,72.17,68.5,0,1.83,1,1,1,1,1,1,1,0,0
+Albania,ALB,2015,Eastern Europe & Central Asia,38.22,38,Minimal (21-40),48.55,91.75,,,14.56,1,1,1,1,1,1,1,0,0
+Albania,ALB,2012,Eastern Europe & Central Asia,46.69,47,Limited (41-60),51.55,100,,,11.08,1,1,1,1,1,1,1,0,0
+Albania,ALB,2010,Eastern Europe & Central Asia,32.97,33,Minimal (21-40),44.5,50,,,,1,1,1,1,1,1,1,0,0
+Albania,ALB,2008,Eastern Europe & Central Asia,37.33,37,Minimal (21-40),41.58,66.8,,,,1,1,1,1,1,1,1,0,0
+Albania,ALB,2006,Eastern Europe & Central Asia,24.89,25,Minimal (21-40),47.17,62.62,,,,1,1,1,1,1,1,1,0,0
+Algeria,DZA,2025,Middle East & North Africa,22.32,22,Minimal (21-40),30.58,16.67,25.94,0,0,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2023,Middle East & North Africa,14.68,15,Scant or None (0-20),27.75,27.83,27.78,0,0,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2021,Middle East & North Africa,3.37,3,Scant or None (0-20),33.33,27.83,31.5,0,0,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2019,Middle East & North Africa,2.15,2,Scant or None (0-20),38.83,27.83,35.17,0,0,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2017,Middle East & North Africa,3.06,3,Scant or None (0-20),41.58,11.17,31.44,0,0,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2015,Middle East & North Africa,18.96,19,Scant or None (0-20),36.27,33.5,,,0,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2012,Middle East & North Africa,13.33,13,Scant or None (0-20),21.18,33.5,,,13.83,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2010,Middle East & North Africa,0.73,1,Scant or None (0-20),33.33,13.4,,,,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2008,Middle East & North Africa,1.82,2,Scant or None (0-20),30.5,16.7,,,,0,1,1,1,1,1,1,0,0
+Algeria,DZA,2006,Middle East & North Africa,28.2,28,Minimal (21-40),38.83,12.5,,,,0,1,1,1,1,1,1,0,0
+Angola,AGO,2025,Sub-Saharan Africa,38.5,38,Minimal (21-40),30.5,16.67,25.89,0,22.22,1,1,1,1,1,1,1,0,0
+Angola,AGO,2023,Sub-Saharan Africa,25.98,26,Minimal (21-40),22.17,16.67,20.33,0,7.39,1,1,1,1,1,1,1,0,0
+Angola,AGO,2021,Sub-Saharan Africa,29.65,30,Minimal (21-40),33.33,33.33,33.33,0,7.39,1,1,1,1,1,1,1,0,0
+Angola,AGO,2019,Sub-Saharan Africa,36.05,36,Minimal (21-40),33.25,33.33,33.28,0,9.22,1,1,1,1,1,1,1,0,0
+Angola,AGO,2017,Sub-Saharan Africa,25.06,25,Minimal (21-40),33.25,33.33,33.28,0,7.39,1,1,1,1,1,1,1,0,0
+Angola,AGO,2015,Sub-Saharan Africa,25.58,26,Minimal (21-40),20.1,33.25,,,12.38,1,1,1,1,1,1,1,0,0
+Angola,AGO,2012,Sub-Saharan Africa,27.69,28,Minimal (21-40),18.18,25,,,5.5,1,1,1,1,1,1,1,0,0
+Angola,AGO,2010,Sub-Saharan Africa,26.07,26,Minimal (21-40),22.25,10,,,,1,1,1,1,1,1,1,0,0
+Angola,AGO,2008,Sub-Saharan Africa,3.98,4,Scant or None (0-20),33.33,10,,,,1,1,1,1,1,1,1,0,0
+Angola,AGO,2006,Sub-Saharan Africa,4.7,5,Scant or None (0-20),22.25,12.5,,,,1,1,1,1,1,1,1,0,0
+Argentina,ARG,2025,Latin America & Caribbean,46.15,46,Limited (41-60),27.67,77.67,44.33,50,18.5,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2023,Latin America & Caribbean,51.05,51,Limited (41-60),44.42,88.83,59.22,50,16.61,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2021,Latin America & Caribbean,50.15,50,Limited (41-60),41.67,77.67,53.67,75.25,14.78,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2019,Latin America & Caribbean,57.79,58,Limited (41-60),41.67,77.67,53.67,50,14.78,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2017,Latin America & Caribbean,49.83,50,Limited (41-60),44.42,77.67,55.5,0,12.94,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2015,Latin America & Caribbean,59.24,59,Limited (41-60),30,91.75,,,27.12,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2012,Latin America & Caribbean,50.02,50,Limited (41-60),29.9,75,,,30.5,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2010,Latin America & Caribbean,56.38,56,Limited (41-60),41.67,46.7,,,,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2008,Latin America & Caribbean,56.02,56,Limited (41-60),41.67,46.7,,,,1,1,1,1,1,1,1,0,1
+Argentina,ARG,2006,Latin America & Caribbean,39.83,40,Minimal (21-40),33.33,33.38,,,,1,1,1,1,1,1,1,0,1
+Armenia,ARM,2025,Eastern Europe & Central Asia,62.84,63,Substantial (61-80),52.67,72.17,59.17,0,18.5,0,0,0,0,0,1,1,0,0
+Armenia,ARM,2023,Eastern Europe & Central Asia,60.08,60,Limited (41-60),52.67,72.17,59.17,0,11.06,0,0,0,0,0,1,1,0,0
+Armenia,ARM,2021,Eastern Europe & Central Asia,61.3,61,Substantial (61-80),44.33,61,49.89,0,5.5,0,0,0,0,0,1,1,0,0
+Australia,AUS,2023,East Asia & Pacific,77.88,78,Substantial (61-80),58.25,83.33,66.61,66.75,37.06,0,0,0,1,1,1,0,1,0
+Australia,AUS,2021,East Asia & Pacific,79.43,79,Substantial (61-80),52.83,83.33,63,66.75,37,,,0,1,1,1,0,1,0
+Australia,AUS,2019,East Asia & Pacific,78.8,79,Substantial (61-80),66.67,94.5,75.94,66.75,40.72,,,0,1,1,1,0,1,0
+Australia,AUS,2017,East Asia & Pacific,73.51,74,Substantial (61-80),55.58,100,70.39,75,40.78,,,0,1,1,1,0,1,0
+Azerbaijan,AZE,2023,Eastern Europe & Central Asia,67.27,67,Substantial (61-80),47.17,100,64.78,0,11.11,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2021,Eastern Europe & Central Asia,57.37,57,Limited (41-60),49.92,88.83,62.89,0,9.22,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2019,Eastern Europe & Central Asia,35.47,35,Minimal (21-40),58.25,88.83,68.44,0,9.22,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2017,Eastern Europe & Central Asia,33.61,34,Minimal (21-40),52.67,83.33,62.89,0,11.06,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2015,Eastern Europe & Central Asia,50.88,51,Limited (41-60),36.7,49.75,,,18.75,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2012,Eastern Europe & Central Asia,42.42,42,Limited (41-60),39.36,33.25,,,5.5,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2010,Eastern Europe & Central Asia,43.41,43,Limited (41-60),33.25,20,,,,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2008,Eastern Europe & Central Asia,36.51,37,Minimal (21-40),24.92,10,,,,1,1,1,1,1,1,0,0,0
+Azerbaijan,AZE,2006,Eastern Europe & Central Asia,30.05,30,Minimal (21-40),22.17,0,,,,1,1,1,1,1,1,0,0,0
+Bangladesh,BGD,2025,South Asia,36.98,37,Minimal (21-40),33.25,44.5,37,0,11,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2023,South Asia,36.68,37,Minimal (21-40),33.25,44.5,37,0,11,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2021,South Asia,29.63,30,Minimal (21-40),36,44.5,38.83,0,12.89,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2019,South Asia,36.36,36,Minimal (21-40),36,44.5,38.83,0,12.89,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2017,South Asia,40.94,41,Limited (41-60),41.58,50,44.39,0,12.89,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2015,South Asia,56.28,56,Limited (41-60),48.55,75,,,22.88,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2012,South Asia,57.93,58,Limited (41-60),57.55,66.75,,,11,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2010,South Asia,47.83,48,Limited (41-60),27.75,30,,,,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2008,South Asia,41.65,42,Limited (41-60),8.33,26.7,,,,1,1,1,1,1,1,1,0,0
+Bangladesh,BGD,2006,South Asia,39.45,39,Minimal (21-40),24.92,37.38,,,,1,1,1,1,1,1,1,0,0
+Benin,BEN,2025,Sub-Saharan Africa,77.15,77,Substantial (61-80),72.25,72.33,72.28,0,51.78,0,1,1,1,1,1,1,0,0
+Benin,BEN,2023,Sub-Saharan Africa,78.6,79,Substantial (61-80),66.67,50,61.11,0,31.39,0,1,1,1,1,1,1,0,0
+Benin,BEN,2021,Sub-Saharan Africa,65.43,65,Substantial (61-80),55.58,66.67,59.28,0,27.72,0,1,1,1,1,1,1,0,0
+Benin,BEN,2019,Sub-Saharan Africa,49.24,49,Limited (41-60),58.33,55.5,57.39,0,24,0,1,1,1,1,1,1,0,0
+Benin,BEN,2017,Sub-Saharan Africa,38.5,39,Minimal (21-40),61.08,61.17,61.11,0,9.28,0,1,1,1,1,1,1,0,0
+Benin,BEN,2015,Sub-Saharan Africa,45.27,45,Limited (41-60),27.36,41.5,,,16.56,0,1,1,1,1,1,1,0,0
+Benin,BEN,2012,Sub-Saharan Africa,1.4,1,Scant or None (0-20),45.45,41.5,,,0,0,1,1,1,1,1,1,0,0
+Bolivia,BOL,2025,Latin America & Caribbean,11.01,11,Scant or None (0-20),33.33,50,38.89,0,12.94,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2023,Latin America & Caribbean,10.72,11,Scant or None (0-20),36.08,50,40.72,0,14.78,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2021,Latin America & Caribbean,20.46,20,Scant or None (0-20),38.92,66.67,48.17,0,20.33,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2019,Latin America & Caribbean,12.34,12,Scant or None (0-20),33.25,66.67,44.39,0,14.78,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2017,Latin America & Caribbean,10.19,10,Scant or None (0-20),41.67,61,48.11,0,12.94,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2015,Latin America & Caribbean,16.83,17,Scant or None (0-20),57.73,58.25,,,0,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2012,Latin America & Caribbean,11.94,12,Scant or None (0-20),45.45,75,,,2.75,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2010,Latin America & Caribbean,13.41,13,Scant or None (0-20),41.67,36.6,,,,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2008,Latin America & Caribbean,6.52,7,Scant or None (0-20),25,39.9,,,,0,1,1,1,1,1,1,0,1
+Bolivia,BOL,2006,Latin America & Caribbean,20.64,21,Minimal (21-40),50,41.62,,,,0,1,1,1,1,1,1,0,1
+Bosnia and Herzegovina,BIH,2025,Eastern Europe & Central Asia,29.76,30,Minimal (21-40),24.92,94.5,48.11,0,7.39,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2023,Eastern Europe & Central Asia,27.5,27,Minimal (21-40),30.5,94.5,51.83,0,7.39,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2021,Eastern Europe & Central Asia,32.35,32,Minimal (21-40),38.83,94.5,57.39,0,9.22,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2019,Eastern Europe & Central Asia,33.33,33,Minimal (21-40),33.25,88.83,51.78,0,7.39,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2017,Eastern Europe & Central Asia,34.61,35,Minimal (21-40),49.92,94.5,64.78,0,9.22,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2015,Eastern Europe & Central Asia,43.25,43,Limited (41-60),36.6,83.25,,,22.88,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2012,Eastern Europe & Central Asia,49.82,50,Limited (41-60),42.36,100,,,19.42,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2010,Eastern Europe & Central Asia,44.33,44,Limited (41-60),33.25,93.4,,,,0,1,1,1,1,1,1,0,0
+Bosnia and Herzegovina,BIH,2008,Eastern Europe & Central Asia,44.21,44,Limited (41-60),44.42,90,,,,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2025,Sub-Saharan Africa,33.62,34,Minimal (21-40),55.58,66.67,59.28,0,12.94,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2023,Sub-Saharan Africa,38.52,39,Minimal (21-40),52.75,66.67,57.39,0,12.89,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2021,Sub-Saharan Africa,33.93,34,Minimal (21-40),47.17,61,51.78,0,5.56,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2019,Sub-Saharan Africa,37.59,38,Minimal (21-40),44.42,66.67,51.83,0,9.22,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2017,Sub-Saharan Africa,7.95,8,Scant or None (0-20),50,72.33,57.44,0,14.78,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2015,Sub-Saharan Africa,47.07,47,Limited (41-60),69.73,100,,,18.69,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2012,Sub-Saharan Africa,49.52,50,Limited (41-60),57.64,100,,,19.42,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2010,Sub-Saharan Africa,50.75,51,Limited (41-60),55.58,73.3,,,,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2008,Sub-Saharan Africa,62,62,Substantial (61-80),55.58,56.7,,,,0,1,1,1,1,1,1,0,0
+Botswana,BWA,2006,Sub-Saharan Africa,65.26,65,Substantial (61-80),50.08,58.38,,,,0,1,1,1,1,1,1,0,0
+Brazil,BRA,2025,Latin America & Caribbean,82.88,83,Extensive (81-100),75,77.67,75.89,75,55.44,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2023,Latin America & Caribbean,80.14,80,Substantial (61-80),80.58,88.83,83.33,83.5,16.61,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2021,Latin America & Caribbean,79.51,80,Substantial (61-80),72.17,88.83,77.72,83.5,14.78,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2019,Latin America & Caribbean,81.05,81,Extensive (81-100),75,83.33,77.78,83.25,16.61,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2017,Latin America & Caribbean,77.38,77,Substantial (61-80),72.25,83.33,75.94,0,35.17,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2015,Latin America & Caribbean,77.07,77,Substantial (61-80),80.1,75,,,70.94,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2012,Latin America & Caribbean,73.02,73,Substantial (61-80),60.64,100,,,36.08,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2010,Latin America & Caribbean,71.39,71,Substantial (61-80),48.36,83.3,,,,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2008,Latin America & Caribbean,74.19,74,Substantial (61-80),56.7,53.4,,,,1,1,1,1,1,1,1,0,1
+Brazil,BRA,2006,Latin America & Caribbean,73.93,74,Substantial (61-80),77.75,66.75,,,,1,1,1,1,1,1,1,0,1
+Bulgaria,BGR,2023,Eastern Europe & Central Asia,78.56,79,Substantial (61-80),41.67,77.67,53.67,41.5,25.94,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2021,Eastern Europe & Central Asia,71.41,71,Substantial (61-80),52.83,77.67,61.11,33.25,25.94,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2019,Eastern Europe & Central Asia,71.06,71,Substantial (61-80),52.83,83.33,63,33.25,25.94,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2017,Eastern Europe & Central Asia,65.79,66,Substantial (61-80),52.92,72.17,59.33,25,22.11,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2015,Eastern Europe & Central Asia,65.5,65,Substantial (61-80),39.45,83.5,,,37.5,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2012,Eastern Europe & Central Asia,65.31,65,Substantial (61-80),30.27,66.75,,,33.42,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2010,Eastern Europe & Central Asia,55.69,56,Limited (41-60),44.5,33.3,,,,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2008,Eastern Europe & Central Asia,56.77,57,Limited (41-60),25.08,29.9,,,,1,1,1,1,1,1,0,0,0
+Bulgaria,BGR,2006,Eastern Europe & Central Asia,47.22,47,Limited (41-60),36.17,37.38,,,,1,1,1,1,1,1,0,0,0
+Burkina Faso,BFA,2025,Sub-Saharan Africa,13.17,13,Scant or None (0-20),50,38.83,46.28,0,3.67,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2023,Sub-Saharan Africa,29.67,30,Minimal (21-40),38.83,38.83,38.83,0,11.06,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2021,Sub-Saharan Africa,31.2,31,Minimal (21-40),47.17,38.83,44.39,0,0,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2019,Sub-Saharan Africa,31.21,31,Minimal (21-40),41.58,44.5,42.56,0,0,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2017,Sub-Saharan Africa,24.47,24,Minimal (21-40),47.08,16.67,36.94,0,0,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2015,Sub-Saharan Africa,42.82,43,Limited (41-60),39.45,50,,,10.38,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2012,Sub-Saharan Africa,22.79,23,Minimal (21-40),75.82,50,,,16.67,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2010,Sub-Saharan Africa,5.45,5,Scant or None (0-20),63.92,23.3,,,,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2008,Sub-Saharan Africa,14.48,14,Scant or None (0-20),44.5,26.6,,,,0,1,1,1,1,1,1,0,0
+Burkina Faso,BFA,2006,Sub-Saharan Africa,11.24,11,Scant or None (0-20),44.5,20.75,,,,0,1,1,1,1,1,1,0,0
+Burundi,BDI,2025,Sub-Saharan Africa,7.96,8,Scant or None (0-20),33.25,55.67,40.72,0,0,0,0,0,1,1,1,1,0,0
+Burundi,BDI,2023,Sub-Saharan Africa,13.79,14,Scant or None (0-20),24.92,27.83,25.89,0,0,0,0,0,1,1,1,1,0,0
+Burundi,BDI,2021,Sub-Saharan Africa,8.87,9,Scant or None (0-20),22.17,27.83,24.06,0,0,,,0,1,1,1,1,0,0
+Burundi,BDI,2019,Sub-Saharan Africa,5.81,6,Scant or None (0-20),11,33.33,18.44,0,0,,,0,1,1,1,1,0,0
+Burundi,BDI,2017,Sub-Saharan Africa,6.72,7,Scant or None (0-20),16.58,33.33,22.17,0,0,,,0,1,1,1,1,0,0
+Cambodia,KHM,2025,East Asia & Pacific,53.66,54,Limited (41-60),27.67,72.17,42.5,0,1.83,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2023,East Asia & Pacific,43.11,43,Limited (41-60),24.92,72.17,40.67,0,1.83,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2021,East Asia & Pacific,33.32,33,Minimal (21-40),24.92,72.17,40.67,0,0,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2019,East Asia & Pacific,32.1,32,Minimal (21-40),38.75,72.17,49.89,0,5.5,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2017,East Asia & Pacific,20.5,20,Scant or None (0-20),44.33,77.67,55.44,0,3.67,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2015,East Asia & Pacific,7.65,8,Scant or None (0-20),43.3,58.25,,,8.31,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2012,East Asia & Pacific,14.76,15,Scant or None (0-20),39.36,58.25,,,0,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2010,East Asia & Pacific,14.52,15,Scant or None (0-20),30.58,33.3,,,,0,1,1,1,1,1,1,0,0
+Cambodia,KHM,2008,East Asia & Pacific,10.88,11,Scant or None (0-20),11.08,30,,,,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2025,Sub-Saharan Africa,58.42,58,Limited (41-60),33.17,33.17,33.17,0,9.17,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2023,Sub-Saharan Africa,49.54,50,Limited (41-60),33.17,33.17,33.17,0,20.33,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2021,Sub-Saharan Africa,33.61,34,Minimal (21-40),33.17,33.17,33.17,0,11.06,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2019,Sub-Saharan Africa,28.1,28,Minimal (21-40),33.17,33.17,33.17,0,11.06,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2017,Sub-Saharan Africa,6.72,7,Scant or None (0-20),22.17,22.17,22.17,0,7.39,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2015,Sub-Saharan Africa,43.72,44,Limited (41-60),24.27,33.25,,,29.06,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2012,Sub-Saharan Africa,10.18,10,Scant or None (0-20),21.09,8.25,,,11.08,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2010,Sub-Saharan Africa,2.17,2,Scant or None (0-20),13.75,3.3,,,,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2008,Sub-Saharan Africa,5.45,5,Scant or None (0-20),27.18,9.9,,,,0,1,1,1,1,1,1,0,0
+Cameroon,CMR,2006,Sub-Saharan Africa,29.34,29,Minimal (21-40),11,0,,,,0,1,1,1,1,1,1,0,0
+Canada,CAN,2023,"Western Europe, U.S. & Canada",73.91,74,Substantial (61-80),36.08,89,53.72,91.75,25.89,0,0,0,1,1,1,0,1,0
+Canada,CAN,2021,"Western Europe, U.S. & Canada",31.48,31,Minimal (21-40),33.33,89,51.89,91.75,25.89,,,0,1,1,1,0,1,0
+Canada,CAN,2019,"Western Europe, U.S. & Canada",71.07,71,Substantial (61-80),44.42,89,59.28,91.75,25.89,,,0,1,1,1,0,1,0
+Canada,CAN,2017,"Western Europe, U.S. & Canada",70.74,71,Substantial (61-80),50,72.17,57.39,83.25,38.89,,,0,1,1,1,0,1,0
+Central African Republic,CAF,2023,Sub-Saharan Africa,5.82,6,Scant or None (0-20),19.42,22.17,20.33,0,0,0,0,0,0,0,0,0,0,0
+Chad,TCD,2025,Sub-Saharan Africa,4.27,4,Scant or None (0-20),27.75,33.33,29.61,0,0,0,1,1,1,1,1,1,0,0
+Chad,TCD,2023,Sub-Saharan Africa,6.1,6,Scant or None (0-20),22.25,50,31.5,0,0,0,1,1,1,1,1,1,0,0
+Chad,TCD,2021,Sub-Saharan Africa,5.79,6,Scant or None (0-20),25,50,33.33,0,3.67,0,1,1,1,1,1,1,0,0
+Chad,TCD,2019,Sub-Saharan Africa,13.72,14,Scant or None (0-20),22.17,50,31.44,0,0,0,1,1,1,1,1,1,0,0
+Chad,TCD,2017,Sub-Saharan Africa,2.44,2,Scant or None (0-20),30.5,72.17,44.39,0,0,0,1,1,1,1,1,1,0,0
+Chad,TCD,2015,Sub-Saharan Africa,3.98,4,Scant or None (0-20),51.55,66.75,,,2.06,0,1,1,1,1,1,1,0,0
+Chad,TCD,2012,Sub-Saharan Africa,2.81,3,Scant or None (0-20),45.64,41.5,,,0,0,1,1,1,1,1,1,0,0
+Chad,TCD,2010,Sub-Saharan Africa,0.36,0,Scant or None (0-20),16.58,6.7,,,,0,1,1,1,1,1,1,0,0
+Chad,TCD,2008,Sub-Saharan Africa,7.98,8,Scant or None (0-20),47.25,13.3,,,,0,1,1,1,1,1,1,0,0
+Chad,TCD,2006,Sub-Saharan Africa,5.42,5,Scant or None (0-20),19.42,0,,,,0,1,1,1,1,1,1,0,0
+Chile,CHL,2025,Latin America & Caribbean,64.19,64,Substantial (61-80),49.92,72.17,57.33,41.75,16.56,0,1,1,1,1,1,1,1,1
+Chile,CHL,2023,Latin America & Caribbean,60.19,60,Limited (41-60),49.92,66.67,55.5,50,11.06,0,1,1,1,1,1,1,1,1
+Chile,CHL,2021,Latin America & Caribbean,59.55,60,Limited (41-60),52.67,66.67,57.33,41.75,24,0,1,1,1,1,1,1,1,1
+Chile,CHL,2019,Latin America & Caribbean,54.94,55,Limited (41-60),49.92,66.67,55.5,0,9.22,0,1,1,1,1,1,1,1,1
+Chile,CHL,2017,Latin America & Caribbean,56.81,57,Limited (41-60),41.58,83.33,55.5,0,11.11,0,1,1,1,1,1,1,1,1
+Chile,CHL,2015,Latin America & Caribbean,58.02,58,Limited (41-60),66.6,100,,,22.94,0,1,1,1,1,1,1,1,1
+Chile,CHL,2012,Latin America & Caribbean,66.33,66,Substantial (61-80),66.64,100,,,11.08,0,1,1,1,1,1,1,1,1
+Chile,CHL,2010,Latin America & Caribbean,72.13,72,Substantial (61-80),30.5,80,,,,0,1,1,1,1,1,1,1,1
+China,CHN,2025,East Asia & Pacific,19.28,19,Scant or None (0-20),16.58,55.5,29.56,0,0,0,1,1,1,1,1,1,0,0
+China,CHN,2023,East Asia & Pacific,19.57,20,Scant or None (0-20),16.58,55.5,29.56,0,0,0,1,1,1,1,1,1,0,0
+China,CHN,2021,East Asia & Pacific,20.17,20,Scant or None (0-20),13.83,55.5,27.72,0,0,0,1,1,1,1,1,1,0,0
+China,CHN,2019,East Asia & Pacific,18.64,19,Scant or None (0-20),19.42,55.5,31.44,0,0,0,1,1,1,1,1,1,0,0
+China,CHN,2017,East Asia & Pacific,13.17,13,Scant or None (0-20),13.83,55.5,27.72,0,5.56,0,1,1,1,1,1,1,0,0
+China,CHN,2015,East Asia & Pacific,13.75,14,Scant or None (0-20),3,50,,,6.25,0,1,1,1,1,1,1,0,0
+China,CHN,2012,East Asia & Pacific,10.89,11,Scant or None (0-20),12.09,25,,,13.92,0,1,1,1,1,1,1,0,0
+China,CHN,2010,East Asia & Pacific,13.04,13,Scant or None (0-20),2.75,56.7,,,,0,1,1,1,1,1,1,0,0
+China,CHN,2008,East Asia & Pacific,13.77,14,Scant or None (0-20),19.42,63.4,,,,0,1,1,1,1,1,1,0,0
+Colombia,COL,2023,Latin America & Caribbean,49.83,50,Limited (41-60),61.08,88.83,70.33,25,20.28,1,1,1,1,1,1,0,1,1
+Colombia,COL,2021,Latin America & Caribbean,49.83,50,Limited (41-60),69.5,88.83,75.94,16.75,12.94,1,1,1,1,1,1,0,1,1
+Colombia,COL,2019,Latin America & Caribbean,46.76,47,Limited (41-60),66.58,83.33,72.17,16.75,16.61,1,1,1,1,1,1,0,1,1
+Colombia,COL,2017,Latin America & Caribbean,49.52,50,Limited (41-60),61,83.33,68.44,41.75,14.78,1,1,1,1,1,1,0,1,1
+Colombia,COL,2015,Latin America & Caribbean,56.86,57,Limited (41-60),83.3,91.75,,,45.88,1,1,1,1,1,1,0,1,1
+Colombia,COL,2012,Latin America & Caribbean,58.27,58,Limited (41-60),70,100,,,38.83,1,1,1,1,1,1,0,1,1
+Colombia,COL,2010,Latin America & Caribbean,60.53,61,Substantial (61-80),52.75,66.7,,,,1,1,1,1,1,1,0,1,1
+Colombia,COL,2008,Latin America & Caribbean,60.57,61,Substantial (61-80),55.5,80.1,,,,1,1,1,1,1,1,0,1,1
+Colombia,COL,2006,Latin America & Caribbean,56.91,57,Limited (41-60),69.5,83.38,,,,1,1,1,1,1,1,0,1,1
+Comoros,COM,2023,Sub-Saharan Africa,3.66,4,Scant or None (0-20),27.75,61.17,38.89,0,1.83,0,0,0,1,1,1,0,0,0
+Comoros,COM,2021,Sub-Saharan Africa,0,0,Scant or None (0-20),24.92,50,33.28,0,0,,,0,1,1,1,0,0,0
+Comoros,COM,2019,Sub-Saharan Africa,0,0,Scant or None (0-20),27.75,50,35.17,0,0,,,0,1,1,1,0,0,0
+Comoros,COM,2017,Sub-Saharan Africa,7.94,8,Scant or None (0-20),25,50,33.33,0,0,,,0,1,1,1,0,0,0
+Costa Rica,CRI,2023,Latin America & Caribbean,60.85,61,Substantial (61-80),72.25,89,77.83,0,9.22,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2021,Latin America & Caribbean,63.32,63,Substantial (61-80),72.25,89,77.83,0,9.22,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2019,Latin America & Caribbean,56.89,57,Limited (41-60),66.67,89,74.11,0,9.22,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2017,Latin America & Caribbean,55.64,56,Limited (41-60),61.08,89,70.39,0,7.39,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2015,Latin America & Caribbean,53.94,54,Limited (41-60),72.82,91.75,,,27.06,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2012,Latin America & Caribbean,49.98,50,Limited (41-60),69.73,100,,,19.42,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2010,Latin America & Caribbean,46.62,47,Limited (41-60),54.55,70.33,,,,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2008,Latin America & Caribbean,45.19,45,Limited (41-60),54.55,70.33,,,,1,1,1,1,1,1,0,1,1
+Costa Rica,CRI,2006,Latin America & Caribbean,44.84,45,Limited (41-60),54.55,71.43,,,,1,1,1,1,1,1,0,1,1
+Cote d'Ivoire,CIV,2023,Sub-Saharan Africa,53.51,54,Limited (41-60),38.83,50,42.56,0,3.67,0,0,0,1,1,1,1,0,0
+Cote d'Ivoire,CIV,2021,Sub-Saharan Africa,47.07,47,Limited (41-60),36.08,50,40.72,0,3.67,,,0,1,1,1,1,0,0
+Cote d'Ivoire,CIV,2019,Sub-Saharan Africa,33.93,34,Minimal (21-40),30.58,50,37.06,0,7.39,,,0,1,1,1,1,0,0
+Cote d'Ivoire,CIV,2017,Sub-Saharan Africa,24.44,24,Minimal (21-40),30.5,33.33,31.44,0,0,,,0,1,1,1,1,0,0
+Croatia,HRV,2025,Eastern Europe & Central Asia,62.05,62,Substantial (61-80),47.33,88.83,61.17,50,16.61,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2023,Eastern Europe & Central Asia,66.63,67,Substantial (61-80),50.08,88.83,63,50,16.61,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2021,Eastern Europe & Central Asia,64.18,64,Substantial (61-80),52.92,88.83,64.89,25,16.61,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2019,Eastern Europe & Central Asia,68.46,68,Substantial (61-80),47.33,88.83,61.17,25,22.11,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2017,Eastern Europe & Central Asia,57.16,57,Limited (41-60),44.58,88.83,59.33,25,25.78,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2015,Eastern Europe & Central Asia,52.89,53,Limited (41-60),27.36,91.75,,,37.62,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2012,Eastern Europe & Central Asia,61.38,61,Substantial (61-80),66.73,75,,,36.17,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2010,Eastern Europe & Central Asia,56.8,57,Limited (41-60),61.08,73.4,,,,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2008,Eastern Europe & Central Asia,59.35,59,Limited (41-60),55.58,53.2,,,,1,1,1,1,1,1,1,0,0
+Croatia,HRV,2006,Eastern Europe & Central Asia,42.4,42,Limited (41-60),41.58,70.88,,,,1,1,1,1,1,1,1,0,0
+Czech Republic,CZE,2023,Eastern Europe & Central Asia,61.99,62,Substantial (61-80),83.33,88.83,85.17,58.25,23.94,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2021,Eastern Europe & Central Asia,59.78,60,Limited (41-60),80.67,88.83,83.39,49.75,14.72,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2019,Eastern Europe & Central Asia,58.84,59,Limited (41-60),80.58,88.83,83.33,58.25,11,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2017,Eastern Europe & Central Asia,61.34,61,Substantial (61-80),80.58,83.33,81.5,0,9.17,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2015,Eastern Europe & Central Asia,68.83,69,Substantial (61-80),81.91,83.25,,,41.62,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2012,Eastern Europe & Central Asia,74.92,75,Substantial (61-80),75.82,91.75,,,27.83,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2010,Eastern Europe & Central Asia,62.29,62,Substantial (61-80),80.67,66.7,,,,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2008,Eastern Europe & Central Asia,61.92,62,Substantial (61-80),72.25,73.3,,,,1,1,1,1,1,1,0,1,0
+Czech Republic,CZE,2006,Eastern Europe & Central Asia,60.82,61,Substantial (61-80),72.73,62.5,,,,1,1,1,1,1,1,0,1,0
+Côte d'Ivoire,CIV,2025,Sub-Saharan Africa,55.32,55,Limited (41-60),33.25,50,38.83,0,5.56,0,0,0,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2025,Sub-Saharan Africa,40.67,41,Limited (41-60),47.17,61.17,51.83,0,31.44,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2023,Sub-Saharan Africa,41.27,41,Limited (41-60),49.92,61.17,53.67,0,33.28,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2021,Sub-Saharan Africa,42.5,42,Limited (41-60),41.58,50,44.39,0,35.17,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2019,Sub-Saharan Africa,33.32,33,Minimal (21-40),41.58,50,44.39,0,31.44,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2017,Sub-Saharan Africa,29.34,29,Minimal (21-40),44.42,50,46.28,0,9.22,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2015,Sub-Saharan Africa,39.46,39,Minimal (21-40),39.45,50,,,12.5,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2012,Sub-Saharan Africa,18.1,18,Scant or None (0-20),45.45,41.5,,,2.75,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2010,Sub-Saharan Africa,5.82,6,Scant or None (0-20),16.75,20,,,,0,1,1,1,1,1,1,0,0
+Democratic Republic of Congo,COD,2008,Sub-Saharan Africa,0.74,1,Scant or None (0-20),8.33,0,,,,0,1,1,1,1,1,1,0,0
+Dominican Republic,DOM,2025,Latin America & Caribbean,81.94,82,Extensive (81-100),55.5,55.5,55.5,0,50.06,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2023,Latin America & Caribbean,77.06,77,Substantial (61-80),52.75,55.5,53.67,0,48.22,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2021,Latin America & Caribbean,76.75,77,Substantial (61-80),63.83,61,62.89,0,22.17,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2019,Latin America & Caribbean,75.22,75,Substantial (61-80),55.5,61,57.33,0,31.33,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2017,Latin America & Caribbean,66.35,66,Substantial (61-80),58.25,55.5,57.33,0,16.61,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2015,Latin America & Caribbean,50.76,51,Limited (41-60),69.73,58.25,,,22.94,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2012,Latin America & Caribbean,29.08,29,Minimal (21-40),63.64,66.5,,,25.08,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2010,Latin America & Caribbean,14.32,14,Scant or None (0-20),21.18,33.22,,,,0,1,1,1,1,1,1,0,1
+Dominican Republic,DOM,2008,Latin America & Caribbean,11.7,12,Scant or None (0-20),15.09,53.2,,,,0,1,1,1,1,1,1,0,1
+Ecuador,ECU,2023,Latin America & Caribbean,47.67,48,Limited (41-60),30.67,61.17,40.83,0,20.33,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2021,Latin America & Caribbean,45.54,46,Limited (41-60),27.83,66.67,40.78,0,25.89,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2019,Latin America & Caribbean,38.19,38,Minimal (21-40),38.92,66.67,48.17,0,27.72,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2017,Latin America & Caribbean,48.73,49,Limited (41-60),33.33,80.2,47.12,0,5.56,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2015,Latin America & Caribbean,50.3,50,Limited (41-60),21.27,75,,,27.06,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2012,Latin America & Caribbean,30.52,31,Minimal (21-40),40.67,58.25,,,22.17,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2010,Latin America & Caribbean,31.12,31,Minimal (21-40),21.18,39.9,,,,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2008,Latin America & Caribbean,39.13,39,Minimal (21-40),27.18,33.3,,,,0,1,1,1,1,1,0,0,1
+Ecuador,ECU,2006,Latin America & the Caribbean,31.53,32,Minimal (21-40),19.42,25,,,,0,1,1,1,1,1,0,0,1
+Egypt,EGY,2025,Middle East & North Africa,59.02,59,Limited (41-60),61.08,55.5,59.22,0,35.11,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2023,Middle East & North Africa,49.2,49,Limited (41-60),52.75,55.5,53.67,0,35.17,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2021,Middle East & North Africa,43.09,43,Limited (41-60),47.25,38.83,44.44,0,18.5,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2019,Middle East & North Africa,43.11,43,Limited (41-60),52.75,44.33,49.94,0,14.78,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2017,Middle East & North Africa,41.28,41,Limited (41-60),38.83,38.83,38.83,0,11.06,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2015,Middle East & North Africa,16.22,16,Scant or None (0-20),0,41.75,,,8.31,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2012,Middle East & North Africa,13.34,13,Scant or None (0-20),57.55,50,,,8.25,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2010,Middle East & North Africa,48.59,49,Limited (41-60),41.75,30,,,,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2008,Middle East & North Africa,43.45,43,Limited (41-60),38.92,33.3,,,,1,1,1,1,1,1,1,0,0
+Egypt,EGY,2006,Middle East & North Africa,18.51,19,Scant or None (0-20),30.58,54.25,,,,1,1,1,1,1,1,1,0,0
+El Salvador,SLV,2025,Latin America & the Caribbean,33.64,34,Minimal (21-40),55.58,66.67,59.28,0,7.39,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2023,Latin America & the Caribbean,23.53,24,Minimal (21-40),55.58,72.17,61.11,0,12.94,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2021,Latin America & the Caribbean,41.29,41,Limited (41-60),55.58,72.17,61.11,0,20.33,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2019,Latin America & the Caribbean,45.57,46,Limited (41-60),55.58,72.17,61.11,0,12.94,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2017,Latin America & the Caribbean,44.63,45,Limited (41-60),61.08,72.17,64.78,0,5.56,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2015,Latin America & the Caribbean,52.87,53,Limited (41-60),78.82,91.75,,,16.62,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2012,Latin America & the Caribbean,43.49,43,Limited (41-60),54.55,100,,,13.83,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2010,Latin America & the Caribbean,36.99,37,Minimal (21-40),41.67,53.3,,,,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2008,Latin America & the Caribbean,37.37,37,Minimal (21-40),61.17,53.3,,,,1,1,1,1,1,1,1,0,1
+El Salvador,SLV,2006,Latin America & the Caribbean,27.87,28,Minimal (21-40),61.08,41.62,,,,1,1,1,1,1,1,1,0,1
+Equatorial Guinea,GNQ,2023,Sub-Saharan Africa,3.97,4,Scant or None (0-20),35.92,0,23.94,0,0,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2021,Sub-Saharan Africa,0,0,Scant or None (0-20),27.58,0,18.39,0,0,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2019,Sub-Saharan Africa,5.5,5,Scant or None (0-20),33.17,0,22.11,0,0,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2017,Sub-Saharan Africa,0,0,Scant or None (0-20),33.17,0,22.11,0,0,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2015,Sub-Saharan Africa,3.67,4,Scant or None (0-20),24.09,0,,,2.06,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2012,Sub-Saharan Africa,0,0,Scant or None (0-20),9.09,0,,,0,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2010,Sub-Saharan Africa,0,0,Scant or None (0-20),13.92,0,,,,0,1,1,1,1,1,0,0,0
+Equatorial Guinea,GNQ,2008,Sub-Saharan Africa,0,0,Scant or None (0-20),2.75,0,,,,0,1,1,1,1,1,0,0,0
+Eswatini,SWZ,2023,Sub-Saharan Africa,29.66,30,Minimal (21-40),47.08,38.83,44.33,0,1.83,0,0,0,1,1,1,0,0,0
+Eswatini,SWZ,2021,Sub-Saharan Africa,31.48,31,Minimal (21-40),47.08,27.67,40.61,0,1.83,,,0,1,1,1,0,0,0
+Eswatini,SWZ,2019,Sub-Saharan Africa,31.18,31,Minimal (21-40),49.83,16.67,38.78,0,0,,,0,1,1,1,0,0,0
+Eswatini,SWZ,2017,Sub-Saharan Africa,2.75,3,Scant or None (0-20),44.42,22.17,37,0,0,,,0,1,1,1,0,0,0
+Ethiopia,ETH,2025,Sub-Saharan Africa,19.89,20,Scant or None (0-20),44.42,88.83,59.22,0,7.39,0,0,0,0,0,1,1,0,0
+Ethiopia,ETH,2023,Sub-Saharan Africa,10.11,10,Scant or None (0-20),47.17,88.83,61.06,0,5.5,0,0,0,0,0,1,1,0,0
+Ethiopia,ETH,2021,Sub-Saharan Africa,8.27,8,Scant or None (0-20),44.5,83.33,57.44,0,7.39,0,0,0,0,0,1,1,0,0
+Fiji,FJI,2023,East Asia & Pacific,34.23,34,Minimal (21-40),16.58,39,24.06,0,20.33,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2021,East Asia & Pacific,36.98,37,Minimal (21-40),16.58,50.17,27.78,0,16.61,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2019,East Asia & Pacific,38.82,39,Minimal (21-40),13.83,33.5,20.39,0,22.22,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2017,East Asia & Pacific,40.66,41,Limited (41-60),8.33,27.83,14.83,0,14.78,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2015,East Asia & Pacific,15.29,15,Scant or None (0-20),0,25,,,10.38,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2012,East Asia & Pacific,5.63,6,Scant or None (0-20),0,8.25,,,11,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2010,East Asia & Pacific,0,0,Scant or None (0-20),0,6.6,,,,0,1,1,1,1,1,0,0,0
+Fiji,FJI,2008,East Asia & Pacific,12.7,13,Scant or None (0-20),57.64,33.4,,,,0,1,1,1,1,1,0,0,0
+France,FRA,2023,"Western Europe, U.S. & Canada",73.76,74,Substantial (61-80),83.33,77.83,81.5,58.25,37,1,1,1,1,1,1,0,1,0
+France,FRA,2021,"Western Europe, U.S. & Canada",71.9,72,Substantial (61-80),88.92,77.83,85.22,58.25,18.44,1,1,1,1,1,1,0,1,0
+France,FRA,2019,"Western Europe, U.S. & Canada",74.39,74,Substantial (61-80),94.5,77.83,88.94,58.25,18.44,1,1,1,1,1,1,0,1,0
+France,FRA,2017,"Western Europe, U.S. & Canada",73.78,74,Substantial (61-80),88.92,77.83,85.22,50,16.61,1,1,1,1,1,1,0,1,0
+France,FRA,2015,"Western Europe, U.S. & Canada",75.85,76,Substantial (61-80),91,75,,,39.56,1,1,1,1,1,1,0,1,0
+France,FRA,2012,"Western Europe, U.S. & Canada",82.81,83,Extensive (81-100),85,91.75,,,41.5,1,1,1,1,1,1,0,1,0
+France,FRA,2010,"Western Europe, U.S. & Canada",86.82,87,Extensive (81-100),72.33,76.7,,,,1,1,1,1,1,1,0,1,0
+France,FRA,2008,"Western Europe, U.S. & Canada",86.86,87,Extensive (81-100),75.08,70.1,,,,1,1,1,1,1,1,0,1,0
+France,FRA,2006,"Western Europe, U.S. & Canada",88.69,89,Extensive (81-100),66.75,70.88,,,,1,1,1,1,1,1,0,1,0
+Georgia,GEO,2023,Eastern Europe & Central Asia,87.37,87,Extensive (81-100),77.83,94.5,83.39,100,44.44,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2021,Eastern Europe & Central Asia,86.72,87,Extensive (81-100),66.67,88.83,74.06,100,44.44,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2019,Eastern Europe & Central Asia,81.07,81,Extensive (81-100),77.83,88.83,81.5,100,27.78,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2017,Eastern Europe & Central Asia,81.63,82,Extensive (81-100),66.67,88.83,74.06,83.25,22.17,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2015,Eastern Europe & Central Asia,66.38,66,Substantial (61-80),72.82,100,,,45.88,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2012,Eastern Europe & Central Asia,55.32,55,Limited (41-60),81.91,91.75,,,47.25,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2010,Eastern Europe & Central Asia,54.7,55,Limited (41-60),47.17,53.3,,,,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2008,Eastern Europe & Central Asia,52.85,53,Limited (41-60),44.42,50,,,,1,1,1,1,1,1,0,0,0
+Georgia,GEO,2006,Eastern Europe & Central Asia,33.66,34,Minimal (21-40),48.45,71.29,,,,1,1,1,1,1,1,0,0,0
+Germany,DEU,2023,"Western Europe, U.S. & Canada",76.03,76,Substantial (61-80),77.75,88.83,81.44,33.25,16.61,0,1,1,1,1,1,0,1,0
+Germany,DEU,2021,"Western Europe, U.S. & Canada",72.92,73,Substantial (61-80),88.83,94.5,90.72,33.25,14.78,0,1,1,1,1,1,0,1,0
+Germany,DEU,2019,"Western Europe, U.S. & Canada",68.86,69,Substantial (61-80),88.83,94.5,90.72,33.25,14.78,0,1,1,1,1,1,0,1,0
+Germany,DEU,2017,"Western Europe, U.S. & Canada",69.15,69,Substantial (61-80),86.08,94.5,88.89,33.25,16.61,0,1,1,1,1,1,0,1,0
+Germany,DEU,2015,"Western Europe, U.S. & Canada",70.71,71,Substantial (61-80),87.91,75,,,23,0,1,1,1,1,1,0,1,0
+Germany,DEU,2012,"Western Europe, U.S. & Canada",71.34,71,Substantial (61-80),81.82,100,,,22.25,0,1,1,1,1,1,0,1,0
+Germany,DEU,2010,"Western Europe, U.S. & Canada",68.18,68,Substantial (61-80),77.75,86.7,,,,0,1,1,1,1,1,0,1,0
+Germany,DEU,2008,"Western Europe, U.S. & Canada",64.07,64,Substantial (61-80),91.67,83.4,,,,0,1,1,1,1,1,0,1,0
+Ghana,GHA,2025,Sub-Saharan Africa,22,22,Minimal (21-40),27.67,44.33,33.22,0,22.17,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2023,Sub-Saharan Africa,45.83,46,Limited (41-60),19.33,44.33,27.67,0,16.61,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2021,Sub-Saharan Africa,56.21,56,Limited (41-60),36,44.33,38.78,0,20.39,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2019,Sub-Saharan Africa,54.4,54,Limited (41-60),44.33,61,49.89,0,14.83,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2017,Sub-Saharan Africa,50.42,50,Limited (41-60),38.75,50,42.5,0,22.22,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2015,Sub-Saharan Africa,51.36,51,Limited (41-60),54.45,66.5,,,29.12,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2012,Sub-Saharan Africa,49.8,50,Limited (41-60),78.91,91.75,,,36.17,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2010,Sub-Saharan Africa,54.39,54,Limited (41-60),61.17,63.4,,,,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2008,Sub-Saharan Africa,49.64,50,Limited (41-60),47.33,36.7,,,,1,1,1,1,1,1,1,0,0
+Ghana,GHA,2006,Sub-Saharan Africa,42.37,42,Limited (41-60),44.42,54.12,,,,1,1,1,1,1,1,1,0,0
+Guatemala,GTM,2025,Latin America & the Caribbean,71.02,71,Substantial (61-80),50,66.67,55.56,0,40.72,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2023,Latin America & the Caribbean,63.54,64,Substantial (61-80),50,66.67,55.56,0,18.5,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2021,Latin America & the Caribbean,64.17,64,Substantial (61-80),36.08,66.67,46.28,0,18.5,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2019,Latin America & the Caribbean,64.8,65,Substantial (61-80),50,66.67,55.56,0,35.17,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2017,Latin America & the Caribbean,61.14,61,Substantial (61-80),50,72.17,57.39,0,29.61,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2015,Latin America & the Caribbean,46.16,46,Limited (41-60),57.55,83.25,,,10.38,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2012,Latin America & the Caribbean,50.52,51,Limited (41-60),42.45,100,,,2.75,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2010,Latin America & the Caribbean,50,50,Limited (41-60),49.92,53.3,,,,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2008,Latin America & the Caribbean,46,46,Limited (41-60),50,40,,,,1,1,1,1,1,1,1,0,1
+Guatemala,GTM,2006,Latin America & the Caribbean,46.32,46,Limited (41-60),55.58,54.12,,,,1,1,1,1,1,1,1,0,1
+Guinea,GIN,2023,Sub-Saharan Africa,10.39,10,Scant or None (0-20),44.42,22.17,37,0,5.56,0,0,0,0,0,0,0,0,0
+Guinea-Bissau,GNB,2025,Sub-Saharan Africa,0,0,Scant or None (0-20),5.5,11.17,7.39,0,3.67,0,0,0,0,0,0,1,0,0
+Guinea-Bissau,GNB,2023,Sub-Saharan Africa,5.2,5,Scant or None (0-20),5.5,22.17,11.06,0,3.67,0,0,0,0,0,0,1,0,0
+Honduras,HND,2025,Latin America & the Caribbean,62.07,62,Substantial (61-80),41.5,66.67,49.89,0,16.67,0,1,1,1,1,1,1,0,1
+Honduras,HND,2023,Latin America & the Caribbean,65.44,65,Substantial (61-80),38.83,72.17,49.94,0,12.94,0,1,1,1,1,1,1,0,1
+Honduras,HND,2021,Latin America & the Caribbean,61.5,61,Substantial (61-80),38.83,66.67,48.11,0,16.67,0,1,1,1,1,1,1,0,1
+Honduras,HND,2019,Latin America & the Caribbean,58.74,59,Limited (41-60),38.83,61,46.22,0,16.61,0,1,1,1,1,1,1,0,1
+Honduras,HND,2017,Latin America & the Caribbean,53.81,54,Limited (41-60),38.83,66.67,48.11,0,7.39,0,1,1,1,1,1,1,0,1
+Honduras,HND,2015,Latin America & the Caribbean,42.78,43,Limited (41-60),69.73,50,,,31.25,0,1,1,1,1,1,1,0,1
+Honduras,HND,2012,Latin America & the Caribbean,53.33,53,Limited (41-60),66.73,66.5,,,22.17,0,1,1,1,1,1,1,0,1
+Honduras,HND,2010,Latin America & the Caribbean,10.87,11,Scant or None (0-20),36.17,39.9,,,,0,1,1,1,1,1,1,0,1
+Honduras,HND,2008,Latin America & the Caribbean,11.6,12,Scant or None (0-20),41.67,43.3,,,,0,1,1,1,1,1,1,0,1
+Honduras,HND,2006,Latin America & the Caribbean,38.05,38,Minimal (21-40),52.75,41.5,,,,0,1,1,1,1,1,1,0,1
+Hungary,HUN,2025,Eastern Europe & Central Asia,43.08,43,Limited (41-60),36.17,77.67,50,33.25,7.39,0,0,1,1,1,1,1,1,0
+Hungary,HUN,2023,Eastern Europe & Central Asia,22.01,22,Minimal (21-40),11.08,77.67,33.28,33.25,5.56,0,0,1,1,1,1,1,1,0
+Hungary,HUN,2021,Eastern Europe & Central Asia,44.3,44,Limited (41-60),47.25,77.67,57.39,33.25,0,0,0,1,1,1,1,1,1,0
+Hungary,HUN,2019,Eastern Europe & Central Asia,44.61,45,Limited (41-60),47.25,77.67,57.39,33.25,3.67,0,0,1,1,1,1,1,1,0
+Hungary,HUN,2017,Eastern Europe & Central Asia,45.51,46,Limited (41-60),50,94.5,64.83,33.25,11.06,0,0,1,1,1,1,1,1,0
+Hungary,HUN,2015,Eastern Europe & Central Asia,48.9,49,Limited (41-60),57.64,83.25,,,31.25,0,0,1,1,1,1,1,1,0
+India,IND,2025,South Asia,44,44,Limited (41-60),47.25,66.67,53.72,0,5.56,1,1,1,1,1,1,1,0,0
+India,IND,2023,South Asia,51.34,51,Limited (41-60),58.42,66.67,61.17,0,5.56,1,1,1,1,1,1,1,0,0
+India,IND,2021,South Asia,37.28,37,Minimal (21-40),58.42,66.67,61.17,0,9.22,1,1,1,1,1,1,1,0,0
+India,IND,2019,South Asia,48.6,49,Limited (41-60),58.42,61.17,59.33,0,11.06,1,1,1,1,1,1,1,0,0
+India,IND,2017,South Asia,47.98,48,Limited (41-60),41.67,61.17,48.17,0,14.78,1,1,1,1,1,1,1,0,0
+India,IND,2015,South Asia,45.84,46,Limited (41-60),39.36,75,,,18.69,1,1,1,1,1,1,1,0,0
+India,IND,2012,South Asia,67.76,68,Substantial (61-80),75.73,100,,,16.58,1,1,1,1,1,1,1,0,0
+India,IND,2010,South Asia,66.69,67,Substantial (61-80),50,66.7,,,,1,1,1,1,1,1,1,0,0
+India,IND,2008,South Asia,60.49,60,Limited (41-60),44.5,63.3,,,,1,1,1,1,1,1,1,0,0
+India,IND,2006,South Asia,52.89,53,Limited (41-60),22.17,54.12,,,,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2025,East Asia & Pacific,70.68,71,Substantial (61-80),72.17,77.83,74.06,0,33.28,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2023,East Asia & Pacific,69.74,70,Substantial (61-80),49.92,77.83,59.22,0,25.89,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2021,East Asia & Pacific,70.36,70,Substantial (61-80),52.75,77.83,61.11,0,24.06,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2019,East Asia & Pacific,70.02,70,Substantial (61-80),83.33,77.83,81.5,0,20.33,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2017,East Asia & Pacific,64.22,64,Substantial (61-80),86.08,83.5,85.22,0,22.17,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2015,East Asia & Pacific,58.71,59,Limited (41-60),81.82,75,,,35.38,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2012,East Asia & Pacific,61.72,62,Substantial (61-80),84.82,66.75,,,19.33,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2010,East Asia & Pacific,50.68,51,Limited (41-60),55.58,59.9,,,,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2008,East Asia & Pacific,54.33,54,Limited (41-60),66.67,63.3,,,,1,1,1,1,1,1,1,0,0
+Indonesia,IDN,2006,East Asia & Pacific,41.66,42,Limited (41-60),55.58,33.25,,,,1,1,1,1,1,1,1,0,0
+Iraq,IRQ,2023,Middle East & North Africa,7.95,8,Scant or None (0-20),27.75,83.33,46.28,0,0,0,1,1,1,1,1,0,0,0
+Iraq,IRQ,2021,Middle East & North Africa,6.13,6,Scant or None (0-20),44.33,77.67,55.44,0,0,0,1,1,1,1,1,0,0,0
+Iraq,IRQ,2019,Middle East & North Africa,9.48,9,Scant or None (0-20),58.33,72.17,62.94,0,0,0,1,1,1,1,1,0,0,0
+Iraq,IRQ,2017,Middle East & North Africa,3.06,3,Scant or None (0-20),58.33,77.83,64.83,0,0,0,1,1,1,1,1,0,0,0
+Iraq,IRQ,2015,Middle East & North Africa,3.06,3,Scant or None (0-20),26.6,50,,,4.19,0,1,1,1,1,1,0,0,0
+Iraq,IRQ,2012,Middle East & North Africa,3.86,4,Scant or None (0-20),51.45,66.75,,,0,0,1,1,1,1,1,0,0,0
+Iraq,IRQ,2010,Middle East & North Africa,0.36,0,Scant or None (0-20),30.58,46.6,,,,0,1,1,1,1,1,0,0,0
+Italy,ITA,2023,"Western Europe, U.S. & Canada",76.2,76,Substantial (61-80),80.58,66.8,76.53,83.25,14.78,0,1,1,1,1,1,0,1,0
+Italy,ITA,2021,"Western Europe, U.S. & Canada",74.97,75,Substantial (61-80),80.58,73.4,78.47,83.25,11.11,0,1,1,1,1,1,0,1,0
+Italy,ITA,2019,"Western Europe, U.S. & Canada",70.98,71,Substantial (61-80),83.42,77.83,81.56,83.25,11.11,0,1,1,1,1,1,0,1,0
+Italy,ITA,2017,"Western Europe, U.S. & Canada",73.44,73,Substantial (61-80),77.83,77.83,77.83,83.25,7.44,0,1,1,1,1,1,0,1,0
+Italy,ITA,2015,"Western Europe, U.S. & Canada",72.53,73,Substantial (61-80),78.82,66.75,,,35.44,0,1,1,1,1,1,0,1,0
+Italy,ITA,2012,"Western Europe, U.S. & Canada",60.3,60,Limited (41-60),69.73,66.75,,,25,0,1,1,1,1,1,0,1,0
+Italy,ITA,2010,"Western Europe, U.S. & Canada",57.89,58,Limited (41-60),72.33,73.4,,,,0,1,1,1,1,1,0,1,0
+Jamaica,JAM,2025,Latin America & the Caribbean,55.03,55,Limited (41-60),47.17,72.33,55.56,33.25,18.44,0,0,0,0,1,1,1,0,0
+Jamaica,JAM,2023,Latin America & the Caribbean,50.13,50,Limited (41-60),52.83,55.67,53.78,0,18.44,0,0,0,0,1,1,1,0,0
+Jamaica,JAM,2021,Latin America & the Caribbean,50.43,50,Limited (41-60),50,55.67,51.89,0,18.44,,,0,0,1,1,1,0,0
+Jamaica,JAM,2019,Latin America & the Caribbean,42.49,42,Limited (41-60),50,55.67,51.89,0,7.39,,,0,0,1,1,1,0,0
+Japan,JPN,2023,East Asia & Pacific,62.94,63,Substantial (61-80),50,77.83,59.28,0,25.89,0,0,0,1,1,1,0,1,0
+Japan,JPN,2021,East Asia & Pacific,61.07,61,Substantial (61-80),50,77.83,59.28,0,20.33,,,0,1,1,1,0,1,0
+Japan,JPN,2019,East Asia & Pacific,62.01,62,Substantial (61-80),50,77.83,59.28,0,20.33,,,0,1,1,1,0,1,0
+Japan,JPN,2017,East Asia & Pacific,60.44,60,Limited (41-60),50,77.83,59.28,0,20.33,,,0,1,1,1,0,1,0
+Jordan,JOR,2025,Middle East & North Africa,62.37,62,Substantial (61-80),47.17,44.5,46.28,0,18.44,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2023,Middle East & North Africa,59.94,60,Limited (41-60),41.58,33.33,38.83,0,3.67,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2021,Middle East & North Africa,61.46,61,Substantial (61-80),44.33,27.67,38.78,0,3.67,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2019,Middle East & North Africa,60.56,61,Substantial (61-80),50.08,27.67,42.61,0,7.39,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2017,Middle East & North Africa,63.37,63,Substantial (61-80),47.25,27.67,40.72,0,11.06,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2015,Middle East & North Africa,55.09,55,Limited (41-60),45.45,41.75,,,27.12,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2012,Middle East & North Africa,57.18,57,Limited (41-60),63.73,25,,,11.08,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2010,Middle East & North Africa,50,50,Limited (41-60),36.08,26.7,,,,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2008,Middle East & North Africa,52.51,53,Limited (41-60),33.33,23.3,,,,1,1,1,1,1,1,1,0,0
+Jordan,JOR,2006,Middle East & North Africa,50.19,50,Limited (41-60),19.42,45.75,,,,1,1,1,1,1,1,1,0,0
+Kazakhstan,KAZ,2023,Eastern Europe & Central Asia,62.66,63,Substantial (61-80),72.17,38.83,61.06,0,11.06,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2021,Eastern Europe & Central Asia,62.96,63,Substantial (61-80),69.42,44.33,61.06,0,9.17,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2019,Eastern Europe & Central Asia,58.32,58,Limited (41-60),75,50.17,66.72,0,16.56,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2017,Eastern Europe & Central Asia,52.74,53,Limited (41-60),69.33,50.17,62.94,0,12.89,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2015,Eastern Europe & Central Asia,51.22,51,Limited (41-60),69.64,58.5,,,27,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2012,Eastern Europe & Central Asia,47.84,48,Limited (41-60),66.73,33.25,,,13.75,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2010,Eastern Europe & Central Asia,38.08,38,Minimal (21-40),58.25,43.3,,,,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2008,Eastern Europe & Central Asia,34.77,35,Minimal (21-40),58.33,23.3,,,,0,1,1,1,1,1,0,0,0
+Kazakhstan,KAZ,2006,Eastern Europe & Central Asia,43.09,43,Limited (41-60),55.67,33.38,,,,0,1,1,1,1,1,0,0,0
+Kenya,KEN,2025,Sub-Saharan Africa,55.65,56,Limited (41-60),44.42,77.67,55.5,58.25,44.44,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2023,Sub-Saharan Africa,54.72,55,Limited (41-60),47.25,77.67,57.39,66.75,31.44,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2021,Sub-Saharan Africa,50.14,50,Limited (41-60),44.5,72.17,53.72,58.25,31.44,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2019,Sub-Saharan Africa,49.83,50,Limited (41-60),38.92,72.17,50,50,20.33,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2017,Sub-Saharan Africa,46.16,46,Limited (41-60),41.67,66.67,50,41.75,14.78,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2015,Sub-Saharan Africa,48,48,Limited (41-60),48.55,66.5,,,33.38,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2012,Sub-Saharan Africa,49.13,49,Limited (41-60),63.64,83.25,,,38.83,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2010,Sub-Saharan Africa,49.29,49,Limited (41-60),58.33,56.6,,,,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2008,Sub-Saharan Africa,57.66,58,Limited (41-60),36,49.9,,,,0,1,1,1,1,1,1,0,0
+Kenya,KEN,2006,Sub-Saharan Africa,48.18,48,Limited (41-60),33.33,45.75,,,,0,1,1,1,1,1,1,0,0
+Kosovo,XKX,2025,Eastern Europe & Central Asia,57.46,57,Limited (41-60),49.92,83.5,61.11,0,31.5,0,0,0,0,0,0,0,0,0
+Kyrgyz Republic,KGZ,2025,Eastern Europe & Central Asia,69.13,69,Substantial (61-80),75,77.67,75.89,0,37.06,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2023,Eastern Europe & Central Asia,61.11,61,Substantial (61-80),72.25,77.67,74.06,0,35.22,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2021,Eastern Europe & Central Asia,62,62,Substantial (61-80),52.58,77.67,60.94,0,25.89,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2019,Eastern Europe & Central Asia,62.63,63,Substantial (61-80),77.67,77.67,77.67,0,33.22,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2017,Eastern Europe & Central Asia,54.72,55,Limited (41-60),72.25,77.67,74.06,0,31.44,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2015,Eastern Europe & Central Asia,54.4,54,Limited (41-60),69.73,41.5,,,52.12,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2012,Eastern Europe & Central Asia,20,20,Scant or None (0-20),46.6,58.25,,,11.08,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2010,Eastern Europe & Central Asia,15.26,15,Scant or None (0-20),44.42,46.7,,,,0,1,1,1,1,1,1,0,0
+Kyrgyz Republic,KGZ,2008,Eastern Europe & Central Asia,8.34,8,Scant or None (0-20),13.92,36.7,,,,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2025,Middle East & North Africa,21.69,22,Minimal (21-40),27.75,27.83,27.78,0,0,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2023,Middle East & North Africa,17.11,17,Scant or None (0-20),24.92,27.83,25.89,0,0,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2021,Middle East & North Africa,8.57,9,Scant or None (0-20),19.33,27.83,22.17,0,0,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2019,Middle East & North Africa,5.5,6,Scant or None (0-20),13.75,27.83,18.44,0,0,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2017,Middle East & North Africa,3.06,3,Scant or None (0-20),5.5,22.17,11.06,0,0,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2015,Middle East & North Africa,2.45,2,Scant or None (0-20),16.6,41.75,,,6.25,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2012,Middle East & North Africa,32.63,33,Minimal (21-40),36.36,41.75,,,0,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2010,Middle East & North Africa,31.87,32,Minimal (21-40),30.58,13.3,,,,0,1,1,1,1,1,1,0,0
+Lebanon,LBN,2008,Middle East & North Africa,32.21,32,Minimal (21-40),38.92,16.6,,,,0,1,1,1,1,1,1,0,0
+Lesotho,LSO,2025,Sub-Saharan Africa,45.84,46,Limited (41-60),38.83,38.83,38.83,0,22.17,0,0,0,1,1,1,1,0,0
+Lesotho,LSO,2023,Sub-Saharan Africa,34.54,35,Minimal (21-40),16.5,33.33,22.11,0,9.28,0,0,0,1,1,1,1,0,0
+Lesotho,LSO,2021,Sub-Saharan Africa,26.31,26,Minimal (21-40),16.5,27.83,20.28,0,1.83,,,0,1,1,1,1,0,0
+Lesotho,LSO,2019,Sub-Saharan Africa,30.57,31,Minimal (21-40),27.58,38.83,31.33,0,0,,,0,1,1,1,1,0,0
+Lesotho,LSO,2017,Sub-Saharan Africa,0,0,Scant or None (0-20),30.33,33.33,31.33,0,0,,,0,1,1,1,1,0,0
+Liberia,LBR,2023,Sub-Saharan Africa,52.24,52,Limited (41-60),22.17,61,35.11,25,14.78,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2021,Sub-Saharan Africa,45.25,45,Limited (41-60),30.5,61,40.67,25,5.5,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2019,Sub-Saharan Africa,38.22,38,Minimal (21-40),41.67,61,48.11,33.25,5.5,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2017,Sub-Saharan Africa,36.08,36,Minimal (21-40),47.08,66.5,53.56,25,11.06,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2015,Sub-Saharan Africa,37.61,38,Minimal (21-40),33.36,33.25,,,20.88,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2012,Sub-Saharan Africa,42.82,43,Limited (41-60),51.45,75,,,11,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2010,Sub-Saharan Africa,39.51,40,Minimal (21-40),47.17,50.1,,,,0,1,1,1,1,1,0,0,0
+Liberia,LBR,2008,Sub-Saharan Africa,2.89,3,Scant or None (0-20),33.33,23.3,,,,0,1,1,1,1,1,0,0,0
+Libya,LBY,2025,Middle East & North Africa,1.83,2,Scant or None (0-20),0,66.67,22.22,0,3.67,0,0,0,0,0,0,0,0,0
+Madagascar,MDG,2025,Sub-Saharan Africa,43.72,44,Limited (41-60),36,16.67,29.56,0,3.67,0,0,0,1,1,1,1,0,0
+Madagascar,MDG,2023,Sub-Saharan Africa,39.14,39,Minimal (21-40),36.08,22.17,31.44,0,9.22,0,0,0,1,1,1,1,0,0
+Madagascar,MDG,2021,Sub-Saharan Africa,26.9,27,Minimal (21-40),36.08,16.67,29.61,0,14.78,,,0,1,1,1,1,0,0
+Madagascar,MDG,2019,Sub-Saharan Africa,40.33,40,Minimal (21-40),44.33,16.67,35.11,0,5.56,,,0,1,1,1,1,0,0
+Madagascar,MDG,2017,Sub-Saharan Africa,34.26,34,Minimal (21-40),36.08,11.17,27.78,0,9.22,,,0,1,1,1,1,0,0
+Malawi,MWI,2025,Sub-Saharan Africa,5.19,5,Scant or None (0-20),44.25,49.83,46.11,16.5,20.33,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2023,Sub-Saharan Africa,5.81,6,Scant or None (0-20),47,44.33,46.11,25,11.06,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2021,Sub-Saharan Africa,19.83,20,Scant or None (0-20),49.83,44.33,48,25,12.94,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2019,Sub-Saharan Africa,27.19,27,Minimal (21-40),58.17,44.33,53.56,0,14.78,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2017,Sub-Saharan Africa,25.98,26,Minimal (21-40),61,44.33,55.44,0,14.78,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2015,Sub-Saharan Africa,64.81,65,Substantial (61-80),66.73,41.75,,,43.69,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2012,Sub-Saharan Africa,52.33,52,Limited (41-60),57.45,41.5,,,19.42,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2010,Sub-Saharan Africa,47.12,47,Limited (41-60),16.58,23.3,,,,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2008,Sub-Saharan Africa,27.53,28,Minimal (21-40),16.58,26.6,,,,0,1,1,1,1,1,1,0,0
+Malawi,MWI,2006,Sub-Saharan Africa,41.75,42,Limited (41-60),33.17,41.75,,,,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2025,East Asia & Pacific,51.31,51,Limited (41-60),30.58,61.17,40.78,0,20.33,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2023,East Asia & Pacific,47.97,48,Limited (41-60),33.33,61.17,42.61,0,27.83,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2021,East Asia & Pacific,46.76,47,Limited (41-60),27.75,61.17,38.89,0,25.94,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2019,East Asia & Pacific,47.38,47,Limited (41-60),19.33,55.67,31.44,0,16.67,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2017,East Asia & Pacific,46.16,46,Limited (41-60),25,55.67,35.22,0,22.22,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2015,East Asia & Pacific,45.56,46,Limited (41-60),15.18,66.75,,,12.44,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2012,East Asia & Pacific,38.62,39,Minimal (21-40),51.64,100,,,16.58,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2010,East Asia & Pacific,38.82,39,Minimal (21-40),30.36,53.4,,,,0,1,1,1,1,1,1,0,0
+Malaysia,MYS,2008,East Asia & Pacific,34.79,35,Minimal (21-40),24.27,53.4,,,,0,1,1,1,1,1,1,0,0
+Mali,MLI,2025,Sub-Saharan Africa,38.22,38,Minimal (21-40),27.67,66.67,40.67,0,9.22,0,1,1,1,1,1,1,0,0
+Mali,MLI,2023,Sub-Saharan Africa,10.09,10,Scant or None (0-20),30.42,66.67,42.5,0,9.22,0,1,1,1,1,1,1,0,0
+Mali,MLI,2021,Sub-Saharan Africa,7.95,8,Scant or None (0-20),11,66.67,29.56,0,7.39,0,1,1,1,1,1,1,0,0
+Mali,MLI,2019,Sub-Saharan Africa,38.22,38,Minimal (21-40),30.42,66.67,42.5,0,3.67,0,1,1,1,1,1,1,0,0
+Mali,MLI,2017,Sub-Saharan Africa,39.44,39,Minimal (21-40),33.17,50,38.78,0,5.56,0,1,1,1,1,1,1,0,0
+Mali,MLI,2015,Sub-Saharan Africa,46.5,46,Limited (41-60),69.73,50,,,4.19,0,1,1,1,1,1,1,0,0
+Mali,MLI,2012,Sub-Saharan Africa,42.8,43,Limited (41-60),69.73,83.25,,,11.08,0,1,1,1,1,1,1,0,0
+Mali,MLI,2010,Sub-Saharan Africa,35.14,35,Minimal (21-40),66.75,53.3,,,,0,1,1,1,1,1,1,0,0
+Mauritania,MRT,2025,Sub-Saharan Africa,41.57,42,Limited (41-60),39.36,38.83,39.18,0,0,,,,,,,,0,0
+Mexico,MEX,2023,Latin America & the Caribbean,80.27,80,Substantial (61-80),55.58,83.33,64.83,25,29.61,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2021,Latin America & the Caribbean,82.11,82,Extensive (81-100),55.58,77.67,62.94,25,22.22,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2019,Latin America & the Caribbean,81.5,82,Extensive (81-100),50,77.67,59.22,25,35.17,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2017,Latin America & the Caribbean,78.99,79,Substantial (61-80),55.58,77.67,62.94,41.75,35.17,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2015,Latin America & the Caribbean,65.76,66,Substantial (61-80),45.45,91.75,,,43.75,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2012,Latin America & the Caribbean,61.34,61,Substantial (61-80),51.55,91.75,,,24.92,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2010,Latin America & the Caribbean,51.99,52,Limited (41-60),45.45,50,,,,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2008,Latin America & the Caribbean,54.7,55,Limited (41-60),42.36,46.7,,,,1,1,1,1,1,1,0,1,1
+Mexico,MEX,2006,Latin America & the Caribbean,49.97,50,Limited (41-60),36.08,50,,,,1,1,1,1,1,1,0,1,1
+Moldova,MDA,2023,Eastern Europe & Central Asia,81.06,81,Extensive (81-100),52.83,77.83,61.17,0,18.44,0,0,0,1,1,1,0,0,0
+Moldova,MDA,2021,Eastern Europe & Central Asia,65.44,65,Substantial (61-80),52.83,83.33,63,0,11.06,,,0,1,1,1,0,0,0
+Moldova,MDA,2019,Eastern Europe & Central Asia,57.43,57,Limited (41-60),58.33,83.33,66.67,0,3.67,,,0,1,1,1,0,0,0
+Moldova,MDA,2017,Eastern Europe & Central Asia,57.77,58,Limited (41-60),47.25,83.33,59.28,0,7.33,,,0,1,1,1,0,0,0
+Mongolia,MNG,2025,East Asia & Pacific,64.5,64,Substantial (61-80),66.75,89,74.17,66.75,35.22,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2023,East Asia & Pacific,61.68,62,Substantial (61-80),75.08,89,79.72,33.25,18.5,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2021,East Asia & Pacific,59.94,60,Limited (41-60),72.25,83.33,75.94,16.5,12.94,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2019,East Asia & Pacific,55.95,56,Limited (41-60),75,88.83,79.61,16.75,14.83,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2017,East Asia & Pacific,45.87,46,Limited (41-60),69.42,88.83,75.89,0,7.39,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2015,East Asia & Pacific,51.38,51,Limited (41-60),69.73,91.75,,,18.81,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2012,East Asia & Pacific,50.53,51,Limited (41-60),66.64,75,,,19.33,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2010,East Asia & Pacific,59.8,60,Limited (41-60),55.58,56.7,,,,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2008,East Asia & Pacific,35.83,36,Minimal (21-40),36.08,46.8,,,,1,1,1,1,1,1,1,0,0
+Mongolia,MNG,2006,East Asia & Pacific,18.12,18,Scant or None (0-20),38.92,54.12,,,,1,1,1,1,1,1,1,0,0
+Montenegro,MNE,2025,Eastern Europe & Central Asia,54.43,54,Limited (41-60),72.25,83.33,75.94,0,22.17,0,0,0,0,0,0,1,0,0
+Montenegro,MNE,2023,Eastern Europe & Central Asia,48.29,48,Limited (41-60),66.67,88.83,74.06,0,12.94,0,0,0,0,0,0,1,0,0
+Morocco,MAR,2025,Middle East & North Africa,51.06,51,Limited (41-60),54.64,44.33,51,0,24,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2023,Middle East & North Africa,46.78,47,Limited (41-60),41.67,44.33,42.56,0,14.72,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2021,Middle East & North Africa,48.31,48,Limited (41-60),44.42,50,46.28,0,7.39,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2019,Middle East & North Africa,42.83,43,Limited (41-60),44.33,44.33,44.33,0,5.56,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2017,Middle East & North Africa,45.27,45,Limited (41-60),36,22.17,31.39,0,0,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2015,Middle East & North Africa,38.2,38,Minimal (21-40),21.18,16.75,,,2.06,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2012,Middle East & North Africa,37.54,38,Minimal (21-40),33.3,25,,,5.5,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2010,Middle East & North Africa,28.21,28,Minimal (21-40),33.33,13.3,,,,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2008,Middle East & North Africa,27.5,28,Minimal (21-40),25,3.3,,,,1,1,1,1,1,1,1,0,0
+Morocco,MAR,2006,Middle East & North Africa,19.15,19,Scant or None (0-20),11.08,0,,,,1,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2025,Sub-Saharan Africa,48.33,48,Limited (41-60),36.08,50,40.72,0,12.83,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2023,Sub-Saharan Africa,46.81,47,Limited (41-60),36.08,50,40.72,0,14.72,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2021,Sub-Saharan Africa,45.28,45,Limited (41-60),41.67,50,44.44,0,18.44,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2019,Sub-Saharan Africa,41.88,42,Limited (41-60),58.33,33.33,50,0,11.06,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2017,Sub-Saharan Africa,40.67,41,Limited (41-60),36,38.83,36.94,0,7.39,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2015,Sub-Saharan Africa,38.24,38,Minimal (21-40),33.36,41.75,,,2.06,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2012,Sub-Saharan Africa,46.8,47,Limited (41-60),36.27,25,,,8.33,0,1,1,1,1,1,1,0,0
+Mozambique,MOZ,2010,Sub-Saharan Africa,28.24,28,Minimal (21-40),47.25,26.6,,,,0,1,1,1,1,1,1,0,0
+Myanmar,MMR,2023,East Asia & Pacific,3.08,3,Scant or None (0-20),13.92,22.33,16.72,0,0,0,1,1,1,1,1,0,0,0
+Myanmar,MMR,2021,East Asia & Pacific,29.95,30,Minimal (21-40),52.75,44.5,50,0,0,0,1,1,1,1,1,0,0,0
+Myanmar,MMR,2019,East Asia & Pacific,28.41,28,Minimal (21-40),69.5,55.67,64.89,0,0,0,1,1,1,1,1,0,0,0
+Myanmar,MMR,2017,East Asia & Pacific,7.33,7,Scant or None (0-20),55.5,33.33,48.11,0,0,0,1,1,1,1,1,0,0,0
+Myanmar,MMR,2015,East Asia & Pacific,1.83,2,Scant or None (0-20),27.27,25,,,6.25,0,1,1,1,1,1,0,0,0
+Myanmar,MMR,2012,East Asia & Pacific,0,0,Scant or None (0-20),12.09,8.25,,,5.5,0,1,1,1,1,1,0,0,0
+Namibia,NAM,2025,Sub-Saharan Africa,53.38,53,Limited (41-60),38.83,66.67,48.11,0,16.72,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2023,Sub-Saharan Africa,54.31,54,Limited (41-60),36.08,66.67,46.28,0,20.44,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2021,Sub-Saharan Africa,42.25,42,Limited (41-60),36.08,72.17,48.11,0,0,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2019,Sub-Saharan Africa,50.59,51,Limited (41-60),30.58,77.83,46.33,0,0,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2017,Sub-Saharan Africa,49.67,50,Limited (41-60),33.25,77.83,48.11,0,0,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2015,Sub-Saharan Africa,45.96,46,Limited (41-60),16.6,75,,,14.56,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2012,Sub-Saharan Africa,54.76,55,Limited (41-60),29.9,66.75,,,2.75,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2010,Sub-Saharan Africa,52.78,53,Limited (41-60),30.5,49.9,,,,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2008,Sub-Saharan Africa,46.38,46,Limited (41-60),30.5,39.9,,,,1,1,1,1,1,1,1,0,0
+Namibia,NAM,2006,Sub-Saharan Africa,50.03,50,Limited (41-60),38.83,37.5,,,,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2025,South Asia,52.28,52,Limited (41-60),38.83,77.83,51.83,0,27.72,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2023,South Asia,50.46,50,Limited (41-60),36.08,66.67,46.28,0,31.39,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2021,South Asia,39.45,39,Minimal (21-40),33.25,66.67,44.39,0,24,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2019,South Asia,41.3,41,Limited (41-60),33.25,77.83,48.11,0,22.17,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2017,South Asia,52.29,52,Limited (41-60),27.67,77.83,44.39,0,24,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2015,South Asia,24.2,24,Minimal (21-40),18.18,75,,,18.69,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2012,South Asia,44.37,44,Limited (41-60),39.27,100,,,16.58,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2010,South Asia,44.98,45,Limited (41-60),30.5,56.7,,,,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2008,South Asia,43.48,43,Limited (41-60),50,46.7,,,,1,1,1,1,1,1,1,0,0
+Nepal,NPL,2006,South Asia,35.87,36,Minimal (21-40),0,20.88,,,,1,1,1,1,1,1,1,0,0
+New Zealand,NZL,2023,East Asia & Pacific,87.11,87,Extensive (81-100),72.17,88.83,77.72,0,55.44,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2021,East Asia & Pacific,84.6,85,Extensive (81-100),72.17,94.5,79.61,0,48.06,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2019,East Asia & Pacific,87.44,87,Extensive (81-100),72.17,100,81.44,0,53.67,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2017,East Asia & Pacific,89.33,89,Extensive (81-100),72.17,88.83,77.72,0,59.33,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2015,East Asia & Pacific,88.39,88,Extensive (81-100),45.45,91.75,,,64.69,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2012,East Asia & Pacific,93.16,93,Extensive (81-100),60.73,100,,,58.42,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2010,East Asia & Pacific,90.1,90,Extensive (81-100),66.67,93.4,,,,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2008,East Asia & Pacific,85.89,86,Extensive (81-100),61.17,76.7,,,,1,1,1,1,1,1,0,1,0
+New Zealand,NZL,2006,East Asia & Pacific,86.28,86,Extensive (81-100),69.5,79.25,,,,1,1,1,1,1,1,0,1,0
+Nicaragua,NIC,2025,Latin America & the Caribbean,50.1,50,Limited (41-60),61.17,38.83,53.72,0,7.39,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2023,Latin America & the Caribbean,43.69,44,Limited (41-60),63.92,33.33,53.72,0,7.39,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2021,Latin America & the Caribbean,42.18,42,Limited (41-60),63.92,50,59.28,0,7.39,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2019,Latin America & the Caribbean,41.27,41,Limited (41-60),61.17,55.5,59.28,0,7.39,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2017,Latin America & the Caribbean,43.39,43,Limited (41-60),63.92,61,62.94,0,11.06,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2015,Latin America & the Caribbean,46.45,46,Limited (41-60),60.73,41.75,,,6.19,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2012,Latin America & the Caribbean,41.75,42,Limited (41-60),45.55,50,,,2.75,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2010,Latin America & the Caribbean,36.55,37,Minimal (21-40),27.83,23.3,,,,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2008,Latin America & the Caribbean,18.78,19,Scant or None (0-20),25.08,23.3,,,,0,1,1,1,1,1,1,0,1
+Nicaragua,NIC,2006,Latin America & the Caribbean,20.64,21,Minimal (21-40),22.17,33.25,,,,0,1,1,1,1,1,1,0,1
+Niger,NER,2025,Sub-Saharan Africa,5.51,6,Scant or None (0-20),0,0,0,0,0,0,1,1,1,1,1,1,0,0
+Niger,NER,2023,Sub-Saharan Africa,32.72,33,Minimal (21-40),49.92,44.5,48.11,0,0,0,1,1,1,1,1,1,0,0
+Niger,NER,2021,Sub-Saharan Africa,26.61,27,Minimal (21-40),41.58,44.5,42.56,0,0,0,1,1,1,1,1,1,0,0
+Niger,NER,2019,Sub-Saharan Africa,17.42,17,Scant or None (0-20),41.58,44.5,42.56,0,0,0,1,1,1,1,1,1,0,0
+Niger,NER,2017,Sub-Saharan Africa,0.3,0,Scant or None (0-20),36.08,44.5,38.89,0,0,0,1,1,1,1,1,1,0,0
+Niger,NER,2015,Sub-Saharan Africa,16.5,17,Scant or None (0-20),72.73,50,,,4.12,0,1,1,1,1,1,1,0,0
+Niger,NER,2012,Sub-Saharan Africa,3.52,4,Scant or None (0-20),63.73,50,,,0,0,1,1,1,1,1,1,0,0
+Niger,NER,2010,Sub-Saharan Africa,3.27,3,Scant or None (0-20),55.58,23.3,,,,0,1,1,1,1,1,1,0,0
+Niger,NER,2008,Sub-Saharan Africa,26.1,26,Minimal (21-40),63.83,33.3,,,,0,1,1,1,1,1,1,0,0
+Nigeria,NGA,2025,Sub-Saharan Africa,23.84,24,Minimal (21-40),49.92,55.5,51.78,24.75,7.33,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2023,Sub-Saharan Africa,31.48,31,Minimal (21-40),55.5,72.17,61.06,50,18.5,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2021,Sub-Saharan Africa,44.65,45,Limited (41-60),55.5,72.17,61.06,33.25,25.89,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2019,Sub-Saharan Africa,21.4,21,Minimal (21-40),47.08,72.17,55.44,33.25,22.17,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2017,Sub-Saharan Africa,16.5,17,Scant or None (0-20),52.67,61.17,55.5,33.25,12.94,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2015,Sub-Saharan Africa,23.83,24,Minimal (21-40),66.73,50,,,25,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2012,Sub-Saharan Africa,15.76,16,Scant or None (0-20),75.73,66.75,,,30.58,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2010,Sub-Saharan Africa,17.77,18,Scant or None (0-20),58.42,16.6,,,,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2008,Sub-Saharan Africa,19.21,19,Scant or None (0-20),39,10,,,,1,1,1,1,1,1,1,0,0
+Nigeria,NGA,2006,Sub-Saharan Africa,20.3,20,Scant or None (0-20),47.25,12.5,,,,1,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2025,Eastern Europe & Central Asia,39.46,39,Minimal (21-40),52.83,66.67,57.44,25,9.28,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2023,Eastern Europe & Central Asia,35.17,35,Minimal (21-40),47.25,66.67,53.72,0,7.39,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2021,Eastern Europe & Central Asia,36.08,36,Minimal (21-40),47.25,66.67,53.72,0,5.56,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2019,Eastern Europe & Central Asia,40.95,41,Limited (41-60),47.25,66.67,53.72,0,0,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2017,Eastern Europe & Central Asia,37,37,Minimal (21-40),44.5,77.83,55.61,0,0,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2015,Eastern Europe & Central Asia,35.46,35,Minimal (21-40),42.45,100,,,6.25,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2012,Eastern Europe & Central Asia,35.42,35,Minimal (21-40),54.64,100,,,8.33,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2010,Eastern Europe & Central Asia,48.57,49,Limited (41-60),61.25,80,,,,0,1,1,1,1,1,1,0,0
+North Macedonia,MKD,2008,Eastern Europe & Central Asia,54.37,54,Limited (41-60),66.75,86.7,,,,0,1,1,1,1,1,1,0,0
+Norway,NOR,2025,"Western Europe, U.S. & Canada",79.75,80,Substantial (61-80),86.17,94.5,88.94,0,24.06,1,1,1,1,1,1,1,1,0
+Norway,NOR,2023,"Western Europe, U.S. & Canada",80.06,80,Substantial (61-80),86.17,88.83,87.06,0,24.06,1,1,1,1,1,1,1,1,0
+Norway,NOR,2021,"Western Europe, U.S. & Canada",81,81,Extensive (81-100),86.17,88.83,87.06,0,24.06,1,1,1,1,1,1,1,1,0
+Norway,NOR,2019,"Western Europe, U.S. & Canada",80.38,80,Substantial (61-80),86.17,88.83,87.06,0,22.17,1,1,1,1,1,1,1,1,0
+Norway,NOR,2017,"Western Europe, U.S. & Canada",84.74,85,Extensive (81-100),91.75,88.83,90.78,0,16.61,1,1,1,1,1,1,1,1,0
+Norway,NOR,2015,"Western Europe, U.S. & Canada",84.14,84,Extensive (81-100),94,91.75,,,75.06,1,1,1,1,1,1,1,1,0
+Norway,NOR,2012,"Western Europe, U.S. & Canada",82.85,83,Extensive (81-100),87.91,100,,,52.83,1,1,1,1,1,1,1,1,0
+Norway,NOR,2010,"Western Europe, U.S. & Canada",83.21,83,Extensive (81-100),88.92,96.7,,,,1,1,1,1,1,1,1,1,0
+Norway,NOR,2008,"Western Europe, U.S. & Canada",79.83,80,Substantial (61-80),86.17,90.1,,,,1,1,1,1,1,1,1,1,0
+Norway,NOR,2006,"Western Europe, U.S. & Canada",72.33,72,Substantial (61-80),80.67,87.62,,,,1,1,1,1,1,1,1,1,0
+Pakistan,PAK,2025,South Asia,44.62,45,Limited (41-60),27.75,50,35.17,0,22.11,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2023,South Asia,29.94,30,Minimal (21-40),27.75,61.17,38.89,0,14.78,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2021,South Asia,45.83,46,Limited (41-60),27.75,61.17,38.89,0,9.22,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2019,South Asia,28.11,28,Minimal (21-40),36.17,61.17,44.5,0,3.67,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2017,South Asia,43.72,44,Limited (41-60),36,61.17,44.39,0,5.5,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2015,South Asia,42.79,43,Limited (41-60),27.18,66.75,,,10.38,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2012,South Asia,57.92,58,Limited (41-60),51.45,91.75,,,11.08,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2010,South Asia,38.42,38,Minimal (21-40),27.67,43.4,,,,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2008,South Asia,38.02,38,Minimal (21-40),24.92,56.7,,,,0,1,1,1,1,1,1,0,0
+Pakistan,PAK,2006,South Asia,51.47,51,Limited (41-60),24.92,62.5,,,,0,1,1,1,1,1,1,0,0
+Palestine,PSE,2025,Middle East & North Africa,14.06,14,Scant or None (0-20),0,55.5,18.5,0,0,0,0,0,0,0,0,1,0,0
+Palestine,PSE,2023,Middle East & North Africa,8.23,8,Scant or None (0-20),0,50,16.67,0,0,0,0,0,0,0,0,1,0,0
+Papua New Guinea,PNG,2025,East Asia & Pacific,45.51,46,Limited (41-60),27.67,33.33,29.56,0,1.83,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2023,East Asia & Pacific,51.94,52,Limited (41-60),27.67,33.33,29.56,0,0,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2021,East Asia & Pacific,50.41,50,Limited (41-60),24.92,33.33,27.72,0,0,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2019,East Asia & Pacific,50.42,50,Limited (41-60),27.67,33.33,29.56,0,7.39,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2017,East Asia & Pacific,49.51,50,Limited (41-60),30.5,33.33,31.44,0,5.56,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2015,East Asia & Pacific,55.32,55,Limited (41-60),36.27,50,,,22.75,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2012,East Asia & Pacific,55.8,56,Limited (41-60),48.27,41.75,,,11,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2010,East Asia & Pacific,56.9,57,Limited (41-60),25,33.3,,,,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2008,East Asia & Pacific,60.53,61,Substantial (61-80),25,39.9,,,,1,1,1,1,1,1,1,0,0
+Papua New Guinea,PNG,2006,East Asia & Pacific,51.83,52,Limited (41-60),30.5,37.5,,,,1,1,1,1,1,1,1,0,0
+Paraguay,PRY,2023,Latin America & the Caribbean,47.77,48,Limited (41-60),36.17,61,44.44,0,9.22,0,0,0,1,1,1,0,0,1
+Paraguay,PRY,2021,Latin America & the Caribbean,46.52,47,Limited (41-60),38.92,61,46.28,0,5.56,,,0,1,1,1,0,0,1
+Paraguay,PRY,2019,Latin America & the Caribbean,46.21,46,Limited (41-60),44.42,61,49.94,0,5.56,,,0,1,1,1,0,0,1
+Paraguay,PRY,2017,Latin America & the Caribbean,42.67,43,Limited (41-60),41.67,61,48.11,0,11.11,,,0,1,1,1,0,0,1
+Peru,PER,2025,Latin America & the Caribbean,71.53,72,Substantial (61-80),72.17,77.67,74,41.5,38.83,0,1,1,1,1,1,1,0,1
+Peru,PER,2023,Latin America & the Caribbean,71.24,71,Substantial (61-80),72.17,83.33,75.89,41.5,35.11,0,1,1,1,1,1,1,0,1
+Peru,PER,2021,Latin America & the Caribbean,61.13,61,Substantial (61-80),72.17,89,77.78,41.5,31.44,0,1,1,1,1,1,1,0,1
+Peru,PER,2019,Latin America & the Caribbean,75.61,76,Substantial (61-80),72.17,83.33,75.89,41.5,25.89,0,1,1,1,1,1,1,0,1
+Peru,PER,2017,Latin America & the Caribbean,73.06,73,Substantial (61-80),77.75,83.33,79.61,33.25,22.22,0,1,1,1,1,1,1,0,1
+Peru,PER,2015,Latin America & the Caribbean,75.09,75,Substantial (61-80),66.64,83.25,,,39.62,0,1,1,1,1,1,1,0,1
+Peru,PER,2012,Latin America & the Caribbean,56.73,57,Limited (41-60),60.55,83.25,,,16.58,0,1,1,1,1,1,1,0,1
+Peru,PER,2010,Latin America & the Caribbean,64.8,65,Substantial (61-80),63.83,56.6,,,,0,1,1,1,1,1,1,0,1
+Peru,PER,2008,Latin America & the Caribbean,66.64,67,Substantial (61-80),55.5,49.9,,,,0,1,1,1,1,1,1,0,1
+Peru,PER,2006,Latin America & the Caribbean,76.83,77,Substantial (61-80),58.25,54.25,,,,0,1,1,1,1,1,1,0,1
+Philippines,PHL,2025,East Asia & Pacific,75.83,76,Substantial (61-80),58.25,88.83,68.44,49.75,36.94,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2023,East Asia & Pacific,74.61,75,Substantial (61-80),80.5,88.83,83.28,49.75,33.22,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2021,East Asia & Pacific,68.2,68,Substantial (61-80),66.58,88.83,74,41.5,35,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2019,East Asia & Pacific,75.85,76,Substantial (61-80),66.58,88.83,74,33,31.33,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2017,East Asia & Pacific,66.68,67,Substantial (61-80),55.5,83.33,64.78,33,40.72,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2015,East Asia & Pacific,63.93,64,Substantial (61-80),36.45,91.75,,,66.69,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2012,East Asia & Pacific,48.46,48,Limited (41-60),36.36,91.75,,,52.83,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2010,East Asia & Pacific,55.14,55,Limited (41-60),50.08,60,,,,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2008,East Asia & Pacific,48.24,48,Limited (41-60),41.67,63.4,,,,1,1,1,1,1,1,1,0,0
+Philippines,PHL,2006,East Asia & Pacific,51.45,51,Limited (41-60),50,62.5,,,,1,1,1,1,1,1,1,0,0
+Poland,POL,2023,Eastern Europe & Central Asia,58.94,59,Limited (41-60),80.58,83.33,81.5,0,20.33,0,1,1,1,1,1,0,1,0
+Poland,POL,2021,Eastern Europe & Central Asia,60.47,60,Limited (41-60),75.08,94.5,81.56,0,22.22,0,1,1,1,1,1,0,1,0
+Poland,POL,2019,Eastern Europe & Central Asia,59.87,60,Limited (41-60),77.75,94.5,83.33,0,24.06,0,1,1,1,1,1,0,1,0
+Poland,POL,2017,Eastern Europe & Central Asia,59,59,Limited (41-60),75,94.5,81.5,0,24.06,0,1,1,1,1,1,0,1,0
+Poland,POL,2015,Eastern Europe & Central Asia,64.18,64,Substantial (61-80),51.55,91.75,,,43.81,0,1,1,1,1,1,0,1,0
+Poland,POL,2012,Eastern Europe & Central Asia,58.83,59,Limited (41-60),48.45,100,,,44.5,0,1,1,1,1,1,0,1,0
+Poland,POL,2010,Eastern Europe & Central Asia,64.45,64,Substantial (61-80),72.25,80,,,,0,1,1,1,1,1,0,1,0
+Poland,POL,2008,Eastern Europe & Central Asia,67,67,Substantial (61-80),72.25,90,,,,0,1,1,1,1,1,0,1,0
+Poland,POL,2006,Eastern Europe & Central Asia,73.54,74,Substantial (61-80),80.58,87.5,,,,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2023,"Western Europe, U.S. & Canada",61.99,62,Substantial (61-80),69.42,83.33,74.06,66.5,27.78,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2021,"Western Europe, U.S. & Canada",60.44,60,Limited (41-60),69.42,83.33,74.06,66.5,16.61,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2019,"Western Europe, U.S. & Canada",65.72,66,Substantial (61-80),69.42,77.67,72.17,75,25.83,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2017,"Western Europe, U.S. & Canada",65.73,66,Substantial (61-80),72.17,72.17,72.17,75,14.78,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2015,"Western Europe, U.S. & Canada",64.42,64,Substantial (61-80),69.73,66.5,,,25,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2012,"Western Europe, U.S. & Canada",61.61,62,Substantial (61-80),57.64,75,,,13.92,0,1,1,1,1,1,0,1,0
+Portugal,PRT,2010,"Western Europe, U.S. & Canada",57.57,58,Limited (41-60),69.5,53.3,,,,0,1,1,1,1,1,0,1,0
+Qatar,QAT,2023,Middle East & North Africa,1.83,2,Scant or None (0-20),5.5,5.5,5.5,0,0,0,1,1,1,1,1,0,0,0
+Qatar,QAT,2021,Middle East & North Africa,1.83,2,Scant or None (0-20),5.5,5.5,5.5,0,0,0,1,1,1,1,1,0,0,0
+Qatar,QAT,2019,Middle East & North Africa,0.91,1,Scant or None (0-20),5.5,5.5,5.5,0,0,0,1,1,1,1,1,0,0,0
+Qatar,QAT,2017,Middle East & North Africa,0,0,Scant or None (0-20),0,5.5,1.83,0,1.83,0,1,1,1,1,1,0,0,0
+Qatar,QAT,2015,Middle East & North Africa,0,0,Scant or None (0-20),0,0,,,0,0,1,1,1,1,1,0,0,0
+Qatar,QAT,2012,Middle East & North Africa,0,0,Scant or None (0-20),0,0,,,0,0,1,1,1,1,1,0,0,0
+Romania,ROU,2025,Eastern Europe & Central Asia,62.31,62,Substantial (61-80),38.92,66.67,48.17,66.75,12.94,1,1,1,1,1,1,1,0,0
+Romania,ROU,2023,Eastern Europe & Central Asia,62.01,62,Substantial (61-80),38.92,66.67,48.17,66.75,7.39,1,1,1,1,1,1,1,0,0
+Romania,ROU,2021,Eastern Europe & Central Asia,62.63,63,Substantial (61-80),30.5,66.67,42.56,66.75,7.39,1,1,1,1,1,1,1,0,0
+Romania,ROU,2019,Eastern Europe & Central Asia,63.55,64,Substantial (61-80),41.67,66.67,50,75,1.83,1,1,1,1,1,1,1,0,0
+Romania,ROU,2017,Eastern Europe & Central Asia,74.97,75,Substantial (61-80),58.42,72.17,63,66.75,5.5,1,1,1,1,1,1,1,0,0
+Romania,ROU,2015,Eastern Europe & Central Asia,75.22,75,Substantial (61-80),54.45,100,,,41.69,1,1,1,1,1,1,1,0,0
+Romania,ROU,2012,Eastern Europe & Central Asia,46.99,47,Limited (41-60),57.55,100,,,13.83,1,1,1,1,1,1,1,0,0
+Romania,ROU,2010,Eastern Europe & Central Asia,58.68,59,Limited (41-60),33.33,63.3,,,,1,1,1,1,1,1,1,0,0
+Romania,ROU,2008,Eastern Europe & Central Asia,61.61,62,Substantial (61-80),52.83,60,,,,1,1,1,1,1,1,1,0,0
+Romania,ROU,2006,Eastern Europe & Central Asia,66.33,66,Substantial (61-80),58.33,50,,,,1,1,1,1,1,1,1,0,0
+Russia,RUS,2023,Eastern Europe & Central Asia,65.74,66,Substantial (61-80),77.75,88.83,81.44,0,33.22,1,1,1,1,1,1,0,0,0
+Russia,RUS,2021,Eastern Europe & Central Asia,73.47,73,Substantial (61-80),72.25,88.83,77.78,0,27.67,1,1,1,1,1,1,0,0,0
+Russia,RUS,2019,Eastern Europe & Central Asia,74.1,74,Substantial (61-80),83.33,88.83,85.17,0,22.11,1,1,1,1,1,1,0,0,0
+Russia,RUS,2017,Eastern Europe & Central Asia,72.23,72,Substantial (61-80),75.08,83.33,77.83,0,12.94,1,1,1,1,1,1,0,0,0
+Russia,RUS,2015,Eastern Europe & Central Asia,74.32,74,Substantial (61-80),78.73,100,,,25,1,1,1,1,1,1,0,0,0
+Russia,RUS,2012,Eastern Europe & Central Asia,74.05,74,Substantial (61-80),84.82,100,,,25,1,1,1,1,1,1,0,0,0
+Russia,RUS,2010,Eastern Europe & Central Asia,60.16,60,Limited (41-60),69.5,76.7,,,,1,1,1,1,1,1,0,0,0
+Russia,RUS,2008,Eastern Europe & Central Asia,57.97,58,Limited (41-60),69.5,73.3,,,,1,1,1,1,1,1,0,0,0
+Russia,RUS,2006,Eastern Europe & Central Asia,47.25,47,Limited (41-60),75.08,58.25,,,,1,1,1,1,1,1,0,0,0
+Rwanda,RWA,2025,Sub-Saharan Africa,55.04,55,Limited (41-60),47.17,88.83,61.06,0,25.89,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2023,Sub-Saharan Africa,50.45,50,Limited (41-60),44.42,77.67,55.5,0,15.65,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2021,Sub-Saharan Africa,44.63,45,Limited (41-60),61.08,72.17,64.78,0,14.72,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2019,Sub-Saharan Africa,38.51,39,Minimal (21-40),61.08,72.17,64.78,0,14.78,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2017,Sub-Saharan Africa,22.03,22,Minimal (21-40),63.92,50,59.28,0,12.89,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2015,Sub-Saharan Africa,35.75,36,Minimal (21-40),51.55,25,,,25,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2012,Sub-Saharan Africa,7.74,8,Scant or None (0-20),72.82,91.75,,,33.42,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2010,Sub-Saharan Africa,10.87,11,Scant or None (0-20),52.75,53.4,,,,0,1,1,1,1,1,1,0,0
+Rwanda,RWA,2008,Sub-Saharan Africa,1.45,1,Scant or None (0-20),50,49.9,,,,0,1,1,1,1,1,1,0,0
+Sao Tome e Principe,STP,2023,Sub-Saharan Africa,32.1,32,Minimal (21-40),41.67,55.5,46.28,0,1.83,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2021,Sub-Saharan Africa,31.16,31,Minimal (21-40),38.83,55.5,44.39,0,0,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2019,Sub-Saharan Africa,24.45,24,Minimal (21-40),33.17,55.5,40.61,0,0,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2017,Sub-Saharan Africa,30.88,31,Minimal (21-40),35.92,66.67,46.17,0,0,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2015,Sub-Saharan Africa,29.34,29,Minimal (21-40),39.9,55.67,,,4.12,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2012,Sub-Saharan Africa,28.77,29,Minimal (21-40),51.45,41.5,,,2.75,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2010,Sub-Saharan Africa,0,0,Scant or None (0-20),13.92,30,,,,0,1,1,1,1,1,0,0,0
+Sao Tome e Principe,STP,2008,Sub-Saharan Africa,0.73,1,Scant or None (0-20),16.67,30,,,,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2023,Middle East & North Africa,25.69,26,Minimal (21-40),0,33.33,11.11,0,0,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2021,Middle East & North Africa,22.95,23,Minimal (21-40),0,33.33,11.11,0,0,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2019,Middle East & North Africa,18.05,18,Scant or None (0-20),0,33.33,11.11,0,0,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2017,Middle East & North Africa,0.91,1,Scant or None (0-20),0,33.33,11.11,0,0,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2015,Middle East & North Africa,0,0,Scant or None (0-20),0,33.5,,,0,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2012,Middle East & North Africa,1.05,1,Scant or None (0-20),0,58.5,,,2.75,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2010,Middle East & North Africa,1.09,1,Scant or None (0-20),0,23.4,,,,0,1,1,1,1,1,0,0,0
+Saudi Arabia,SAU,2008,Middle East & North Africa,1.09,1,Scant or None (0-20),0,26.7,,,,0,1,1,1,1,1,0,0,0
+Senegal,SEN,2025,Sub-Saharan Africa,42.5,42,Limited (41-60),30.5,33.33,31.44,0,5.56,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2023,Sub-Saharan Africa,41.57,42,Limited (41-60),33.42,33.33,33.39,0,0,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2021,Sub-Saharan Africa,40.03,40,Minimal (21-40),27.75,33.33,29.61,0,3.67,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2019,Sub-Saharan Africa,45.56,46,Limited (41-60),27.75,33.33,29.61,0,0,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2017,Sub-Saharan Africa,51.07,51,Limited (41-60),41.67,33.33,38.89,0,1.83,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2015,Sub-Saharan Africa,42.83,43,Limited (41-60),66.73,58.25,,,12.5,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2012,Sub-Saharan Africa,10.18,10,Scant or None (0-20),30.36,58.25,,,11.08,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2010,Sub-Saharan Africa,2.88,3,Scant or None (0-20),25,23.3,,,,0,1,1,1,1,1,1,0,0
+Senegal,SEN,2008,Sub-Saharan Africa,2.89,3,Scant or None (0-20),38.83,20,,,,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2025,Eastern Europe & Central Asia,52.57,53,Limited (41-60),44.42,83.33,57.39,75.25,1.83,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2023,Eastern Europe & Central Asia,51.33,51,Limited (41-60),41.67,83.33,55.56,75.25,1.83,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2021,Eastern Europe & Central Asia,46.45,46,Limited (41-60),38.83,83.33,53.67,75.25,1.83,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2019,Eastern Europe & Central Asia,39.73,40,Minimal (21-40),44.42,83.33,57.39,66.75,1.83,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2017,Eastern Europe & Central Asia,43.4,43,Limited (41-60),52.83,83.33,63,66.75,1.83,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2015,Eastern Europe & Central Asia,47.08,47,Limited (41-60),42.45,66.75,,,20.88,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2012,Eastern Europe & Central Asia,38.96,39,Minimal (21-40),48.55,83.5,,,8.25,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2010,Eastern Europe & Central Asia,53.62,54,Limited (41-60),38.92,30,,,,0,1,1,1,1,1,1,0,0
+Serbia,SRB,2008,Eastern Europe & Central Asia,45.67,46,Limited (41-60),30.58,23.3,,,,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2025,Sub-Saharan Africa,50.44,50,Limited (41-60),36,77.67,49.89,41.75,29.56,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2023,Sub-Saharan Africa,54.74,55,Limited (41-60),30.42,77.83,46.22,41.75,20.33,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2021,Sub-Saharan Africa,45.22,45,Limited (41-60),33.17,72.17,46.17,41.75,31.44,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2019,Sub-Saharan Africa,39.41,39,Minimal (21-40),27.58,72.17,42.44,16.5,31.44,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2017,Sub-Saharan Africa,38.2,38,Minimal (21-40),27.58,72.17,42.44,0,5.56,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2015,Sub-Saharan Africa,52.02,52,Limited (41-60),36.18,66.5,,,31.19,0,1,1,1,1,1,1,0,0
+Sierra Leone,SLE,2012,Sub-Saharan Africa,39.42,39,Minimal (21-40),26.6,75,,,19.42,0,1,1,1,1,1,1,0,0
+Slovakia,SVK,2023,Eastern Europe & Central Asia,68.82,69,Substantial (61-80),41.58,83.33,55.5,66.5,24.06,0,1,1,1,1,1,0,1,0
+Slovakia,SVK,2021,Eastern Europe & Central Asia,64.78,65,Substantial (61-80),41.58,83.33,55.5,66.5,22.22,0,1,1,1,1,1,0,1,0
+Slovakia,SVK,2019,Eastern Europe & Central Asia,59.83,60,Limited (41-60),41.67,72.17,51.83,75,11.11,0,1,1,1,1,1,0,1,0
+Slovakia,SVK,2017,Eastern Europe & Central Asia,58.93,59,Limited (41-60),47.17,72.17,55.5,66.5,9.22,0,1,1,1,1,1,0,1,0
+Slovakia,SVK,2015,Eastern Europe & Central Asia,56.81,57,Limited (41-60),33.3,66.75,,,24.94,0,1,1,1,1,1,0,1,0
+Slovakia,SVK,2012,Eastern Europe & Central Asia,67.02,67,Substantial (61-80),36.6,100,,,27.75,0,1,1,1,1,1,0,1,0
+Slovakia,SVK,2010,Eastern Europe & Central Asia,56.79,57,Limited (41-60),45.45,66.7,,,,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2023,Eastern Europe & Central Asia,63.91,64,Substantial (61-80),75.08,83.33,77.83,83.25,9.22,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2021,Eastern Europe & Central Asia,65.74,66,Substantial (61-80),80.67,88.83,83.39,83.25,11.06,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2019,Eastern Europe & Central Asia,67.59,68,Substantial (61-80),80.67,83.33,81.56,50,11.06,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2017,Eastern Europe & Central Asia,69.41,69,Substantial (61-80),77.83,83.33,79.67,0,11.06,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2015,Eastern Europe & Central Asia,67.59,68,Substantial (61-80),66.73,83.25,,,56.31,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2012,Eastern Europe & Central Asia,74.05,74,Substantial (61-80),78.82,100,,,58.33,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2010,Eastern Europe & Central Asia,69.57,70,Substantial (61-80),75.08,96.7,,,,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2008,Eastern Europe & Central Asia,73.57,74,Substantial (61-80),75.08,96.7,,,,0,1,1,1,1,1,0,1,0
+Slovenia,SVN,2006,Eastern Europe & Central Asia,81.71,82,Extensive (81-100),75.17,100,,,,0,1,1,1,1,1,0,1,0
+Somalia,SOM,2025,Sub-Saharan Africa,38.54,39,Minimal (21-40),33.33,44.33,37,0,18.5,0,0,0,1,1,1,1,0,0
+Somalia,SOM,2023,Sub-Saharan Africa,36.71,37,Minimal (21-40),30.5,27.67,29.56,0,0,0,0,0,1,1,1,1,0,0
+Somalia,SOM,2021,Sub-Saharan Africa,20.5,20,Scant or None (0-20),36.17,16.67,29.67,0,0,,,0,1,1,1,1,0,0
+Somalia,SOM,2019,Sub-Saharan Africa,3.36,3,Scant or None (0-20),33.42,16.67,27.83,0,1.83,,,0,1,1,1,1,0,0
+Somalia,SOM,2017,Sub-Saharan Africa,7.95,8,Scant or None (0-20),8.33,50,22.22,0,1.83,,,0,1,1,1,1,0,0
+South Africa,ZAF,2025,Sub-Saharan Africa,81.79,82,Extensive (81-100),66.67,100,77.78,50,27.83,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2023,Sub-Saharan Africa,82.71,83,Extensive (81-100),63.83,100,75.89,58.25,35.17,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2021,Sub-Saharan Africa,86.44,86,Extensive (81-100),72.17,100,81.44,66.5,18.5,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2019,Sub-Saharan Africa,87.05,87,Extensive (81-100),75,100,83.33,66.5,24.06,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2017,Sub-Saharan Africa,88.59,89,Extensive (81-100),77.75,100,85.17,100,24,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2015,Sub-Saharan Africa,86.44,86,Extensive (81-100),84.82,100,,,64.62,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2012,Sub-Saharan Africa,90.09,90,Extensive (81-100),87.91,75,,,58.25,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2010,Sub-Saharan Africa,92.34,92,Extensive (81-100),86.17,73.3,,,,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2008,Sub-Saharan Africa,87.46,87,Extensive (81-100),66.67,73.3,,,,1,1,1,1,1,1,1,0,0
+South Africa,ZAF,2006,Sub-Saharan Africa,85.53,86,Extensive (81-100),80.58,83.38,,,,1,1,1,1,1,1,1,0,0
+South Korea,KOR,2023,East Asia & Pacific,70.73,71,Substantial (61-80),83.42,88.83,85.22,83.25,64.78,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2021,East Asia & Pacific,73.85,74,Substantial (61-80),86.17,88.83,87.06,83.25,59.22,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2019,East Asia & Pacific,61.69,62,Substantial (61-80),83.42,88.83,85.22,75,61.06,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2017,East Asia & Pacific,60.44,60,Limited (41-60),86.17,83.33,85.22,91.75,38.94,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2015,East Asia & Pacific,65.4,65,Substantial (61-80),72.73,50,,,83.44,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2012,East Asia & Pacific,75.29,75,Substantial (61-80),78.82,66.75,,,91.75,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2010,East Asia & Pacific,71.14,71,Substantial (61-80),72.17,76.8,,,,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2008,East Asia & Pacific,65.96,66,Substantial (61-80),69.42,70.1,,,,0,1,1,1,1,1,0,1,0
+South Korea,KOR,2006,East Asia & Pacific,72.92,73,Substantial (61-80),77.83,71.57,,,,0,1,1,1,1,1,0,1,0
+South Sudan,SSD,2023,Sub-Saharan Africa,12.52,13,Scant or None (0-20),27.67,61.17,38.83,0,9.28,0,0,0,1,1,1,0,0,0
+South Sudan,SSD,2021,Sub-Saharan Africa,14.68,15,Scant or None (0-20),36,50,40.67,0,11.06,,,0,1,1,1,0,0,0
+South Sudan,SSD,2019,Sub-Saharan Africa,7.05,7,Scant or None (0-20),38.75,50,42.5,0,11.06,,,0,1,1,1,0,0,0
+South Sudan,SSD,2017,Sub-Saharan Africa,4.59,5,Scant or None (0-20),44.33,72.33,53.67,0,1.83,,,0,1,1,1,0,0,0
+Spain,ESP,2023,"Western Europe, U.S. & Canada",54.32,54,Limited (41-60),55.58,83.33,64.83,75,1.83,0,1,1,1,1,1,0,1,0
+Spain,ESP,2021,"Western Europe, U.S. & Canada",54.32,54,Limited (41-60),52.83,77.83,61.17,83.25,1.83,0,1,1,1,1,1,0,1,0
+Spain,ESP,2019,"Western Europe, U.S. & Canada",53.09,53,Limited (41-60),41.67,94.5,59.28,83.25,1.83,0,1,1,1,1,1,0,1,0
+Spain,ESP,2017,"Western Europe, U.S. & Canada",54.33,54,Limited (41-60),47.25,72.17,55.56,66.75,1.83,0,1,1,1,1,1,0,1,0
+Spain,ESP,2015,"Western Europe, U.S. & Canada",58.07,58,Limited (41-60),43.4,66.5,,,16.69,0,1,1,1,1,1,0,1,0
+Spain,ESP,2012,"Western Europe, U.S. & Canada",63.48,63,Substantial (61-80),40,75,,,13.92,0,1,1,1,1,1,0,1,0
+Spain,ESP,2010,"Western Europe, U.S. & Canada",62.98,63,Substantial (61-80),44.42,50,,,,0,1,1,1,1,1,0,1,0
+Sri Lanka,LKA,2025,South Asia,42.83,43,Limited (41-60),50.08,66.67,55.61,0,9.22,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2023,South Asia,37.3,37,Minimal (21-40),55.58,77.83,63,0,7.39,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2021,South Asia,29.94,30,Minimal (21-40),55.58,61.17,57.44,0,18.5,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2019,South Asia,47.39,47,Limited (41-60),36,77.83,49.94,0,16.61,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2017,South Asia,43.73,44,Limited (41-60),41.67,66.67,50,0,11.11,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2015,South Asia,38.52,39,Minimal (21-40),36.7,66.5,,,14.62,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2012,South Asia,45.95,46,Limited (41-60),46.7,50,,,8.25,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2010,South Asia,67.1,67,Substantial (61-80),80.67,56.7,,,,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2008,South Asia,64.13,64,Substantial (61-80),41.67,43.4,,,,1,1,1,1,1,1,1,0,0
+Sri Lanka,LKA,2006,South Asia,47.45,47,Limited (41-60),36.36,20.75,,,,1,1,1,1,1,1,1,0,0
+Sudan,SDN,2023,Sub-Saharan Africa,1.54,2,Scant or None (0-20),2.75,5.5,3.67,0,0,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2021,Sub-Saharan Africa,1.21,1,Scant or None (0-20),5.58,5.5,5.56,0,3.67,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2019,Sub-Saharan Africa,1.52,2,Scant or None (0-20),22.17,55.5,33.28,0,0,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2017,Sub-Saharan Africa,1.52,2,Scant or None (0-20),22.17,50,31.44,0,0,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2015,Sub-Saharan Africa,10.4,10,Scant or None (0-20),24.27,16.75,,,0,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2012,Sub-Saharan Africa,,,Extensive (81-100),,,,,,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2010,Sub-Saharan Africa,7.98,8,Scant or None (0-20),19.42,33.4,,,,0,0,1,1,1,1,0,0,0
+Sudan,SDN,2008,Sub-Saharan Africa,0.36,0,Scant or None (0-20),19.42,13.3,,,,0,0,1,1,1,1,0,0,0
+Sweden,SWE,2023,"Western Europe, U.S. & Canada",84.79,85,Extensive (81-100),75,94.5,81.5,33.25,18.44,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2021,"Western Europe, U.S. & Canada",85.44,85,Extensive (81-100),80.58,94.5,85.22,25,14.78,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2019,"Western Europe, U.S. & Canada",85.74,86,Extensive (81-100),86.17,94.5,88.94,49.75,18.5,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2017,"Western Europe, U.S. & Canada",87.01,87,Extensive (81-100),80.58,94.5,85.22,75,16.67,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2015,"Western Europe, U.S. & Canada",87.01,87,Extensive (81-100),84.91,100,,,47.88,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2012,"Western Europe, U.S. & Canada",84.3,84,Extensive (81-100),91,100,,,49.92,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2010,"Western Europe, U.S. & Canada",83.18,83,Extensive (81-100),80.58,96.33,,,,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2008,"Western Europe, U.S. & Canada",77.94,78,Substantial (61-80),75,83.4,,,,1,1,1,1,1,1,0,1,0
+Sweden,SWE,2006,"Western Europe, U.S. & Canada",76.07,76,Substantial (61-80),75,79.12,,,,1,1,1,1,1,1,0,1,0
+Tajikistan,TJK,2025,Eastern Europe & Central Asia,47.36,47,Limited (41-60),41.58,72.17,51.78,0,16.67,0,1,1,1,1,1,1,0,0
+Tajikistan,TJK,2023,Eastern Europe & Central Asia,32.72,33,Minimal (21-40),36,55.5,42.5,0,7.33,0,1,1,1,1,1,1,0,0
+Tajikistan,TJK,2021,Eastern Europe & Central Asia,15.61,16,Scant or None (0-20),38.75,50,42.5,0,0,0,1,1,1,1,1,1,0,0
+Tajikistan,TJK,2019,Eastern Europe & Central Asia,16.8,17,Scant or None (0-20),63.75,61.17,62.89,0,7.44,0,1,1,1,1,1,1,0,0
+Tajikistan,TJK,2017,Eastern Europe & Central Asia,29.95,30,Minimal (21-40),63.83,66.67,64.78,0,7.44,0,1,1,1,1,1,1,0,0
+Tajikistan,TJK,2015,Eastern Europe & Central Asia,25.36,25,Minimal (21-40),69.73,75,,,18.69,0,1,1,1,1,1,1,0,0
+Tajikistan,TJK,2012,Eastern Europe & Central Asia,17.21,17,Scant or None (0-20),39.45,91.75,,,2.75,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2025,Sub-Saharan Africa,42.21,42,Limited (41-60),44.33,33.33,40.67,0,12.89,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2023,Sub-Saharan Africa,40.66,41,Limited (41-60),44.33,38.83,42.5,0,12.89,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2021,Sub-Saharan Africa,21.41,21,Minimal (21-40),38.83,38.83,38.83,0,9.22,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2019,Sub-Saharan Africa,16.53,17,Scant or None (0-20),30.5,38.83,33.28,0,9.17,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2017,Sub-Saharan Africa,10.4,10,Scant or None (0-20),41.67,38.83,40.72,0,14.72,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2015,Sub-Saharan Africa,45.57,46,Limited (41-60),39.45,50,,,33.19,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2012,Sub-Saharan Africa,46.71,47,Limited (41-60),43.3,66.75,,,13.75,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2010,Sub-Saharan Africa,44.63,45,Limited (41-60),24.92,50.1,,,,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2008,Sub-Saharan Africa,35.52,36,Minimal (21-40),24.92,30.1,,,,0,1,1,1,1,1,1,0,0
+Tanzania,TZA,2006,Sub-Saharan Africa,47.83,48,Limited (41-60),13.92,20.75,,,,0,1,1,1,1,1,1,0,0
+Thailand,THA,2025,East Asia & Pacific,55.35,55,Limited (41-60),69.42,50,62.94,58.25,27.67,0,1,1,1,1,1,1,0,0
+Thailand,THA,2023,East Asia & Pacific,59.63,60,Limited (41-60),72.17,44.33,62.89,41.5,27.67,0,1,1,1,1,1,1,0,0
+Thailand,THA,2021,East Asia & Pacific,58.41,58,Limited (41-60),69.42,38.83,59.22,33.25,11.06,0,1,1,1,1,1,1,0,0
+Thailand,THA,2019,East Asia & Pacific,60.57,61,Substantial (61-80),69.42,50,62.94,16.5,12.89,0,1,1,1,1,1,1,0,0
+Thailand,THA,2017,East Asia & Pacific,55.63,56,Limited (41-60),44.42,66.67,51.83,8.25,7.39,0,1,1,1,1,1,1,0,0
+Thailand,THA,2015,East Asia & Pacific,42.5,42,Limited (41-60),30,75,,,41.69,0,1,1,1,1,1,1,0,0
+Thailand,THA,2012,East Asia & Pacific,36.48,36,Minimal (21-40),69.64,83.25,,,13.75,0,1,1,1,1,1,1,0,0
+Thailand,THA,2010,East Asia & Pacific,41.89,42,Limited (41-60),49.92,56.6,,,,0,1,1,1,1,1,1,0,0
+Thailand,THA,2008,East Asia & Pacific,39.8,40,Minimal (21-40),50.08,53.2,,,,0,1,1,1,1,1,1,0,0
+The Gambia,GMB,2025,Sub-Saharan Africa,35.78,36,Minimal (21-40),50,77.83,59.28,24.75,24,0,0,0,0,1,1,1,0,0
+The Gambia,GMB,2023,Sub-Saharan Africa,36.4,36,Minimal (21-40),50,72.17,57.39,8.25,25.83,0,0,0,0,1,1,1,0,0
+The Gambia,GMB,2021,Sub-Saharan Africa,35.47,35,Minimal (21-40),44.33,66.67,51.78,0,9.22,,,0,0,1,1,1,0,0
+The Gambia,GMB,2019,Sub-Saharan Africa,4.28,4,Scant or None (0-20),41.58,50,44.39,0,9.22,,,0,0,1,1,1,0,0
+Timor-Leste,TLS,2023,East Asia & Pacific,36.7,37,Minimal (21-40),66.58,72.17,68.44,0,11,0,1,1,1,1,1,0,0,0
+Timor-Leste,TLS,2021,East Asia & Pacific,52.47,52,Limited (41-60),47.17,72.17,55.5,0,7.33,0,1,1,1,1,1,0,0,0
+Timor-Leste,TLS,2019,East Asia & Pacific,39.86,40,Minimal (21-40),38.75,66.67,48.06,0,5.56,0,1,1,1,1,1,0,0,0
+Timor-Leste,TLS,2017,East Asia & Pacific,39.55,40,Minimal (21-40),50,66.67,55.56,0,9.22,0,1,1,1,1,1,0,0,0
+Timor-Leste,TLS,2015,East Asia & Pacific,41.4,41,Limited (41-60),45.45,83.25,,,10.44,0,1,1,1,1,1,0,0,0
+Timor-Leste,TLS,2012,East Asia & Pacific,35.67,36,Minimal (21-40),48.45,100,,,22.33,0,1,1,1,1,1,0,0,0
+Timor-Leste,TLS,2010,East Asia & Pacific,34.13,34,Minimal (21-40),27.75,0,,,,0,1,1,1,1,1,0,0,0
+Togo,TGO,2025,Sub-Saharan Africa,35.78,36,Minimal (21-40),24.92,39,29.61,0,5.5,0,0,0,0,0,1,1,0,0
+Togo,TGO,2023,Sub-Saharan Africa,17.41,17,Scant or None (0-20),36.08,38.83,37,0,5.5,0,0,0,0,0,1,1,0,0
+Togo,TGO,2021,Sub-Saharan Africa,31.49,31,Minimal (21-40),38.92,38.83,38.89,0,0,0,0,0,0,0,1,1,0,0
+Trinidad and Tobago,TTO,2023,Latin America & the Caribbean,38.25,38,Minimal (21-40),27.58,55.5,36.89,0,9.22,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2021,Latin America & the Caribbean,33.6,34,Minimal (21-40),24.83,55.5,35.06,0,7.33,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2019,Latin America & the Caribbean,30.24,30,Minimal (21-40),30.42,55.5,38.78,0,7.33,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2017,Latin America & the Caribbean,33.28,33,Minimal (21-40),38.75,55.5,44.33,0,7.33,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2015,Latin America & the Caribbean,33.9,34,Minimal (21-40),66.55,75,,,27.06,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2012,Latin America & the Caribbean,37.88,38,Minimal (21-40),69.55,58.5,,,13.83,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2010,Latin America & the Caribbean,32.91,33,Minimal (21-40),38.83,43.4,,,,0,1,1,1,1,1,0,0,0
+Trinidad and Tobago,TTO,2008,Latin America & the Caribbean,32.61,33,Minimal (21-40),19.42,30.1,,,,0,1,1,1,1,1,0,0,0
+Tunisia,TUN,2025,Middle East & North Africa,11.01,11,Scant or None (0-20),33.42,46.6,37.29,0,5.5,0,1,1,1,1,1,1,0,0
+Tunisia,TUN,2023,Middle East & North Africa,16.5,16,Scant or None (0-20),0,40,11.76,0,3.67,0,1,1,1,1,1,1,0,0
+Tunisia,TUN,2021,Middle East & North Africa,41.56,42,Limited (41-60),44.5,73.4,53,0,14.78,0,1,1,1,1,1,1,0,0
+Tunisia,TUN,2019,Middle East & North Africa,34.83,35,Minimal (21-40),52.83,27.83,44.5,0,16.67,0,1,1,1,1,1,1,0,0
+Tunisia,TUN,2017,Middle East & North Africa,38.82,39,Minimal (21-40),41.75,22.17,35.22,0,1.83,0,1,1,1,1,1,1,0,0
+Tunisia,TUN,2015,Middle East & North Africa,42.17,42,Limited (41-60),33.36,50,,,20.81,0,1,1,1,1,1,1,0,0
+Tunisia,TUN,2012,Middle East & North Africa,11.22,11,Scant or None (0-20),21.18,33.25,,,8.33,0,1,1,1,1,1,1,0,0
+Türkiye,TUR,2025,Eastern Europe & Central Asia,65.41,65,Substantial (61-80),55.58,83.33,64.83,0,0,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2023,Eastern Europe & Central Asia,63.87,64,Substantial (61-80),50,83.33,61.11,0,0,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2021,Eastern Europe & Central Asia,54.59,55,Limited (41-60),50,83.33,61.11,0,0,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2019,Eastern Europe & Central Asia,51.47,51,Limited (41-60),44.42,77.67,55.5,0,0,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2017,Eastern Europe & Central Asia,58.27,58,Limited (41-60),50,77.67,59.22,0,0,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2015,Eastern Europe & Central Asia,44.32,44,Limited (41-60),16.7,91.75,,,20.81,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2012,Eastern Europe & Central Asia,49.84,50,Limited (41-60),27.27,50,,,11,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2010,Eastern Europe & Central Asia,56.51,57,Limited (41-60),25,36.6,,,,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2008,Eastern Europe & Central Asia,43.48,43,Limited (41-60),25,33.3,,,,1,1,1,1,1,1,1,1,0
+Türkiye,TUR,2006,Eastern Europe & Central Asia,41.65,42,Limited (41-60),36.17,37.5,,,,1,1,1,1,1,1,1,1,0
+Uganda,UGA,2025,Sub-Saharan Africa,52.61,53,Limited (41-60),63.83,77.67,68.44,66.75,27.72,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2023,Sub-Saharan Africa,59.02,59,Limited (41-60),61,77.67,66.56,83.5,14.72,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2021,Sub-Saharan Africa,58.39,58,Limited (41-60),49.83,77.67,59.11,83.5,18.5,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2019,Sub-Saharan Africa,58.42,58,Limited (41-60),49.83,77.67,59.11,83.5,22.11,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2017,Sub-Saharan Africa,59.95,60,Limited (41-60),52.67,83.33,62.89,66.75,27.78,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2015,Sub-Saharan Africa,62.42,62,Substantial (61-80),54.55,75,,,22.94,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2012,Sub-Saharan Africa,64.96,65,Substantial (61-80),72.82,66.5,,,19.33,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2010,Sub-Saharan Africa,55.45,55,Limited (41-60),38.83,33.2,,,,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2008,Sub-Saharan Africa,51.09,51,Limited (41-60),33.17,29.9,,,,1,1,1,1,1,1,1,0,0
+Uganda,UGA,2006,Sub-Saharan Africa,31.9,32,Minimal (21-40),47.25,25,,,,1,1,1,1,1,1,1,0,0
+Ukraine,UKR,2025,Eastern Europe & Central Asia,64.52,65,Substantial (61-80),83.42,88.83,85.22,0,40.72,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2023,Eastern Europe & Central Asia,37.61,38,Minimal (21-40),72.33,83.33,76,0,24,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2021,Eastern Europe & Central Asia,64.83,65,Substantial (61-80),80.67,83.33,81.56,0,38.89,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2019,Eastern Europe & Central Asia,62.98,63,Substantial (61-80),89,83.33,87.11,0,33.33,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2017,Eastern Europe & Central Asia,54.39,54,Limited (41-60),86.25,77.83,83.44,0,29.61,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2015,Eastern Europe & Central Asia,45.51,46,Limited (41-60),78.73,83.25,,,22.88,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2012,Eastern Europe & Central Asia,53.67,54,Limited (41-60),72.82,75,,,30.58,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2010,Eastern Europe & Central Asia,62.27,62,Substantial (61-80),36.17,63.4,,,,0,1,1,1,1,1,1,0,0
+Ukraine,UKR,2008,Eastern Europe & Central Asia,55.32,55,Limited (41-60),38.92,73.4,,,,0,1,1,1,1,1,1,0,0
+United Kingdom,GBR,2023,"Western Europe, U.S. & Canada",61.68,62,Substantial (61-80),33.25,100,55.5,100,53.78,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2021,"Western Europe, U.S. & Canada",73.82,74,Substantial (61-80),49.92,100,66.61,100,53.78,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2019,"Western Europe, U.S. & Canada",69.77,70,Substantial (61-80),66.67,88.83,74.06,91.75,61.11,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2017,"Western Europe, U.S. & Canada",74.13,74,Substantial (61-80),50,88.83,62.94,66.5,57.44,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2015,"Western Europe, U.S. & Canada",75.46,75,Substantial (61-80),45.45,91.75,,,58.38,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2012,"Western Europe, U.S. & Canada",88.42,88,Extensive (81-100),48.55,100,,,55.58,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2010,"Western Europe, U.S. & Canada",87.29,87,Extensive (81-100),52.83,80.1,,,,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2008,"Western Europe, U.S. & Canada",88.03,88,Extensive (81-100),52.83,76.7,,,,1,1,1,1,1,1,0,1,0
+United Kingdom,GBR,2006,"Western Europe, U.S. & Canada",87.91,88,Extensive (81-100),47.25,66.75,,,,1,1,1,1,1,1,0,1,0
+United States,USA,2023,"Western Europe, U.S. & Canada",68.54,69,Substantial (61-80),77.75,94.5,83.33,100,22.17,1,1,1,1,1,1,0,1,0
+United States,USA,2021,"Western Europe, U.S. & Canada",68.23,68,Substantial (61-80),77.75,94.5,83.33,100,22.17,1,1,1,1,1,1,0,1,0
+United States,USA,2019,"Western Europe, U.S. & Canada",76.03,76,Substantial (61-80),77.75,94.5,83.33,100,22.17,1,1,1,1,1,1,0,1,0
+United States,USA,2017,"Western Europe, U.S. & Canada",76.64,77,Substantial (61-80),80.5,94.5,85.17,100,22.17,1,1,1,1,1,1,0,1,0
+United States,USA,2015,"Western Europe, U.S. & Canada",80.69,81,Extensive (81-100),84.82,100,,,68.81,1,1,1,1,1,1,0,1,0
+United States,USA,2012,"Western Europe, U.S. & Canada",79.23,79,Substantial (61-80),86.6,100,,,58.25,1,1,1,1,1,1,0,1,0
+United States,USA,2010,"Western Europe, U.S. & Canada",81.89,82,Extensive (81-100),88.92,100,,,,1,1,1,1,1,1,0,1,0
+United States,USA,2008,"Western Europe, U.S. & Canada",82.26,82,Extensive (81-100),88.92,100,,,,1,1,1,1,1,1,0,1,0
+United States,USA,2006,"Western Europe, U.S. & Canada",80.92,81,Extensive (81-100),88.92,95.88,,,,1,1,1,1,1,1,0,1,0
+Venezuela,VEN,2023,Latin America & the Caribbean,0,0,Scant or None (0-20),27.67,27.83,27.72,0,0,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2021,Latin America & the Caribbean,0,0,Scant or None (0-20),11,16.67,12.89,0,0,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2019,Latin America & the Caribbean,0,0,Scant or None (0-20),11,16.67,12.89,0,0,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2017,Latin America & the Caribbean,0.3,0,Scant or None (0-20),11,66.5,29.5,0,7.39,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2015,Latin America & the Caribbean,7.95,8,Scant or None (0-20),39.36,66.5,,,22.81,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2012,Latin America & the Caribbean,36.81,37,Minimal (21-40),39.36,58.25,,,16.58,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2010,Latin America & the Caribbean,34.02,34,Minimal (21-40),36,46.7,,,,0,1,1,1,1,1,0,0,1
+Venezuela,VEN,2008,Latin America & the Caribbean,35.47,35,Minimal (21-40),30.42,43.2,,,,0,1,1,1,1,1,0,0,1
+Vietnam,VNM,2025,East Asia & Pacific,51.36,51,Limited (41-60),83.42,88.83,85.22,0,16.72,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2023,East Asia & Pacific,50.74,51,Limited (41-60),77.83,88.83,81.5,0,18.56,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2021,East Asia & Pacific,43.71,44,Limited (41-60),75,88.83,79.61,0,16.72,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2019,East Asia & Pacific,37.59,38,Minimal (21-40),72.17,77.67,74,0,11.11,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2017,East Asia & Pacific,14.69,15,Scant or None (0-20),72.17,72.17,72.17,0,7.33,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2015,East Asia & Pacific,17.74,18,Scant or None (0-20),60.64,75,,,41.56,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2012,East Asia & Pacific,18.98,19,Scant or None (0-20),75.82,83.5,,,13.92,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2010,East Asia & Pacific,13.76,14,Scant or None (0-20),30.58,43.3,,,,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2008,East Asia & Pacific,9.77,10,Scant or None (0-20),30.58,39.9,,,,1,1,1,1,1,1,1,0,0
+Vietnam,VNM,2006,East Asia & Pacific,2.92,3,Scant or None (0-20),25,52.43,,,,1,1,1,1,1,1,1,0,0
+Yemen,YEM,2023,Middle East & North Africa,0,0,Scant or None (0-20),5.5,5.5,5.5,0,0,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2021,Middle East & North Africa,0,0,Scant or None (0-20),5.5,5.5,5.5,0,0,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2019,Middle East & North Africa,0,0,Scant or None (0-20),5.5,11.17,7.39,0,0,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2017,Middle East & North Africa,0,0,Scant or None (0-20),5.5,16.67,9.22,0,0,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2015,Middle East & North Africa,33.65,34,Minimal (21-40),26.5,33.33,,,10.44,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2012,Middle East & North Africa,10.53,11,Scant or None (0-20),33.27,66.75,,,5.58,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2010,Middle East & North Africa,24.63,25,Minimal (21-40),16.67,26.7,,,,0,1,1,1,1,1,0,0,0
+Yemen,YEM,2008,Middle East & North Africa,9.79,10,Scant or None (0-20),25,26.7,,,,0,1,1,1,1,1,0,0,0
+Zambia,ZMB,2025,Sub-Saharan Africa,37.58,38,Minimal (21-40),44.42,61,49.94,25,18.5,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2023,Sub-Saharan Africa,33.94,34,Minimal (21-40),33.33,83.33,50,25,25.89,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2021,Sub-Saharan Africa,18.62,19,Scant or None (0-20),41.67,83.33,55.56,25,24,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2019,Sub-Saharan Africa,29.63,30,Minimal (21-40),36.08,66.67,46.28,25,20.28,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2017,Sub-Saharan Africa,7.94,8,Scant or None (0-20),36,72.33,48.11,0,14.78,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2015,Sub-Saharan Africa,38.52,39,Minimal (21-40),27.27,58.25,,,39.56,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2012,Sub-Saharan Africa,4.21,4,Scant or None (0-20),33.36,50,,,13.83,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2010,Sub-Saharan Africa,35.87,36,Minimal (21-40),47.25,56.7,,,,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2008,Sub-Saharan Africa,48.17,48,Limited (41-60),38.92,53.4,,,,0,1,1,1,1,1,1,0,0
+Zambia,ZMB,2006,Sub-Saharan Africa,37.28,37,Minimal (21-40),33.33,50,,,,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2025,Sub-Saharan Africa,62.35,62,Substantial (61-80),55.5,61.17,57.39,41.5,22.17,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2023,Sub-Saharan Africa,62.99,63,Substantial (61-80),52.75,61.17,55.56,41.5,22.22,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2021,Sub-Saharan Africa,59.32,59,Limited (41-60),41.58,61.17,48.11,41.5,18.5,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2019,Sub-Saharan Africa,48.92,49,Limited (41-60),36.08,50,40.72,41.5,33.33,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2017,Sub-Saharan Africa,22.94,23,Minimal (21-40),41.58,50,44.39,0,9.28,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2015,Sub-Saharan Africa,35.17,35,Minimal (21-40),21.09,33.25,,,14.56,0,1,1,1,1,1,1,0,0
+Zimbabwe,ZWE,2012,Sub-Saharan Africa,20.33,20,Scant or None (0-20),23.3,24.75,,,16.58,0,1,1,1,1,1,1,0,0
